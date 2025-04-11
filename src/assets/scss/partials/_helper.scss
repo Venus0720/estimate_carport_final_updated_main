@@ -1,0 +1,366 @@
+* {
+  box-sizing: border-box;
+ }
+ a,button {display: inline-flex;cursor: pointer;
+  transition: 0.2s ease all;
+  &:hover {opacity: 0.8;}
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&display=swap');
+
+.font-1 {font-family: 'Barlow', sans-serif;}
+.font-2 {font-family: 'Roboto', sans-serif;}
+.font-3 {font-family: 'Chakra Petch', sans-serif;}
+
+$font-1: 'Barlow', sans-serif;
+
+$sub_font: 'Graphik', sans-serif;
+
+$head_font: 'Graphik', sans-serif;
+
+$color-light:#000;
+
+$color-dark:#000;
+
+$sub_color: #444444;
+
+$head_color: #444444;
+
+$bg-light:#DFF4FF;
+
+$bg-dark:#A5DFFF;
+
+$bg-dark-update: #102E61;
+
+$bg-light-blue: #ADCAFD;
+
+$color-a1:#A5E4FF;
+
+$greencolor:#65C044;
+
+$bg-greencolor:#45B61D;
+
+$greencolorrgb:0, 255, 0;
+
+$next-button-color: #192E5E;
+
+$theme-color: #DE3539;
+
+
+
+
+
+// calling icon font
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?dfibty');
+  src:  url('../fonts/icomoon.eot?dfibty#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?dfibty') format('truetype'),
+    url('../fonts/icomoon.woff?dfibty') format('woff'),
+    url('../fonts/icomoon.svg?dfibty#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+// mixin for helper margin and padding
+
+@mixin list-loop($className, $styleName) {
+    @for $i from 0 through 10 {
+      #{$className + $i* 5} {
+        #{$styleName}: #{$i * 5 + 'px!important'};
+      }
+        $i: $i + 5;
+    }
+  }
+
+// for padding
+@include list-loop('.pl-', 'padding-left');
+@include list-loop('.pr-', 'padding-right');
+@include list-loop('.pt-', 'padding-top');
+@include list-loop('.pb-', 'padding-bottom');
+
+// for margin
+
+@include list-loop('.ml-', 'margin-left');
+@include list-loop('.mr-', 'margin-right');
+@include list-loop('.mt-', 'margin-top');
+@include list-loop('.mb-', 'margin-bottom');
+
+.m-0 {margin: 0;}
+.m-p {margin-top: 20px;}
+
+.p-0 {padding: 0 !important;}
+
+.icon-font {
+  font-family: 'icomoon';
+}
+
+
+.pimg-fluid { 
+  cursor: pointer;
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+
+.check-icon {
+ position: relative;
+ color: white;
+ &:before{
+  content: '\e907';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform:translate(-50%, -50%);
+  right: initial;
+  z-index: 2;
+  @extend .icon-font;
+  line-height: initial;
+  // color: #fff;
+ }
+}
+
+.d-flex {display: flex;}
+.w-space-nowrap {white-space: nowrap !important;}
+.w-auto {width: auto !important;}
+.flex-nowrap {flex-wrap: nowrap !important;}
+
+.justify-between {justify-content: space-between;}
+.justify-center {justify-content: center;}
+
+.align-item-center {align-items: center;}
+
+.text-center {text-align: center;}
+
+.element-common-font{
+  font-size: 16px;
+  font-weight: 400; 
+  color: $sub_color;
+  @include responsive(sm) {
+    font-size: 14px;
+  }
+  @include responsive(md) {
+    font-size: 14px;
+  }
+}
+
+.round-circle {
+  position: relative;
+  border: 1px solid #9A948F;
+  border-radius: 100%;
+  background: none;
+  cursor: pointer;
+  line-height: 0;
+  outline: 0;
+  padding: 0 !important;
+  vertical-align: text-top;
+  height: 20px;
+  width: 20px;
+  -webkit-appearance: none;
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.25);
+  margin: 0;
+  margin-right: 10px;
+  font-size: 0px;
+}
+
+.round-checked {
+  background-color: #64c044;
+  box-shadow: 0px 0px 0px 1px #64c044 !important;
+  opacity: 1;
+  @extend .check-icon ;
+  border-color: #fff;
+  border-width: 2px;
+  font-size: 12px;
+}
+
+.dw-add-cta {
+  display: flex;
+  align-items: end;
+  display: flex;
+  align-items: end;
+  padding-right: 0px !important;
+  .custom-btn-3 {
+    font-size: 14px;
+    @extend .font-1;
+    font-weight: 500;
+    height: 30px;
+    padding: 0px 15px;
+    border-radius: 15px;
+    background-color: #F3FBF5;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='15' ry='15' stroke='%2345B61DFF' stroke-width='1' stroke-dasharray='3' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e");
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: $bg-greencolor;
+    transition:0.2s ease all;
+    .icon {font-size: 12px;margin-right: 5px;    position: relative;
+      top: 1px;}
+      &.round-cta {
+        border-radius:25px;     
+      }
+      &.green-clr-btn {
+        background-color: $bg-greencolor;
+      }
+      &:hover {
+        opacity: 0.9;
+      }
+  }
+  .custom-btn-2 {
+    @include responsive(sm) {
+      text-align: center;
+      padding: 0px 7px;
+      .text {
+        font-size: 12px !important;
+      }
+    }
+    .text {
+      @include responsive(md) {
+        font-size: 12px;
+        text-align: center;
+      }
+      @include responsive(lg) {
+        font-size: 12px;
+        text-align: center;
+      }
+    }
+    font-size: 14px;
+    @extend .font-1;
+    font-weight: 500;
+    font-family: $sub_font;
+    height: 40px;
+    width: 100%;
+    background-color: #F3FBF5;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='%2345B61DFF' stroke-width='1' stroke-dasharray='3' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e");
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: $bg-greencolor;
+    transition:0.2s ease all;
+    .icon {
+      font-size: 12px;
+      margin-right: 5px;    
+      position: relative;
+      top: 1px;
+      @include responsive (md) {
+        margin-left: 10px;
+      }
+      @include responsive (lg) {
+        margin-left: 10px;
+      }
+    }
+    &.round-cta {
+      border-radius:25px;     
+    }
+  
+    &.green-clr-btn {
+      background-color: $bg-greencolor;
+    }
+    
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+}
+
+.custom-btn-1 {
+  background-color: #ccc;
+  padding: 6px 20px;
+  font-size: 18px;
+  @extend .font-1;
+  font-weight: 400;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  transition:0.2s ease all;
+.icon {font-size: 12px;margin-right: 5px;    position: relative;
+  top: 1px;}
+  &.round-cta {
+    border-radius:25px;     
+  }
+
+  &.green-clr-btn {
+    background-color: $bg-greencolor;
+  }
+  
+  &:hover {
+    opacity: 0.9;
+  }
+  .prev-next {
+    font-weight: 600;
+    font-size: 12px;
+  }
+}
+
+.d-none {
+  display: none!important;
+}
+
+.invisibleelemtn {position: relative;z-index: -10;top:0; display: none;}
+
+.buy-now-cta {
+  background-color: $theme-color !important;
+  border: none;
+  color: #fff;
+  font: $sub_font;
+  font-weight: 700;
+  height: 60px;
+  width: 100%;
+  border-radius: 8px;
+  padding: 12px 60px;
+  font-size: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  @include responsive(sm) {
+    font-size: 14px;
+    padding: 10px 15px;
+    display: none;
+  }
+}
+.bg-green {
+  background-color: $theme-color !important;
+}
+.section-seprator {
+  background: #d9d9d9;
+  height: 1px;
+  margin: 5px 0;
+}
+
+@keyframes spinner {
+  0% {
+    transform: translate3d(-50%, -50%, 0) rotate(0deg);
+  }
+  100% {
+    transform: translate3d(-50%, -50%, 0) rotate(360deg);
+  }
+}
+.spin::before {
+  animation: 1.5s linear infinite spinner;
+  animation-play-state: inherit;
+  border: solid 3px #cfd0d1;
+  border-bottom-color: #1c87c9;
+  border-radius: 50%;
+  content: "";
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 33px;
+  right: 0px;
+  transform: translate3d(-50%, -50%, 0);
+}
+
+.label-pointer {
+  cursor: pointer;
+  @include responsive(sm) {
+    font-size: 14px;
+  }
+}
+  
+.none-check-icon {
+  font-size: 0px !important;
+}

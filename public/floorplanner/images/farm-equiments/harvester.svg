@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 488.14" style="enable-background:new 0 0 300 488.14;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectangle_23013_1_);}
+	.st1{fill:#CF4D27;}
+	.st2{fill:url(#Path_6076_1_);}
+	.st3{fill:#993630;}
+	.st4{fill:url(#Rectangle_23015_1_);}
+	.st5{fill:url(#Path_6077_1_);}
+	.st6{opacity:0.5;}
+	.st7{fill:#636464;}
+	.st8{fill:url(#Path_6080_1_);}
+	.st9{fill:url(#Path_6083_1_);}
+	.st10{fill:url(#Rectangle_23130_1_);}
+	.st11{fill:url(#Path_6086_1_);}
+	.st12{fill:#E85625;}
+	.st13{opacity:0.63;fill:url(#Path_6090_1_);enable-background:new    ;}
+	.st14{fill:#918E89;}
+	.st15{fill:#7B7975;}
+	.st16{fill:#B3AEA8;}
+	.st17{fill:#5C5D5D;}
+	.st18{fill:url(#Path_6099_1_);}
+	.st19{fill:url(#Path_6103_1_);}
+	.st20{opacity:0.36;fill:url(#Path_6104_1_);enable-background:new    ;}
+	.st21{fill:url(#Path_6105_1_);}
+	.st22{fill:url(#Path_6106_1_);}
+	.st23{fill:url(#Path_6108_1_);}
+	.st24{fill:url(#Subtraction_1_1_);}
+	.st25{fill:url(#Rectangle_23197_1_);}
+	.st26{fill:#262626;}
+	.st27{fill:url(#Ellipse_394_1_);}
+	.st28{fill:url(#Path_6326_1_);}
+	.st29{fill:url(#Path_6327_1_);}
+	.st30{fill:url(#Path_6110_1_);}
+	.st31{fill:url(#Path_6111_1_);}
+	.st32{fill:url(#Path_6112_1_);}
+	.st33{fill:url(#Path_6113_1_);}
+	.st34{fill:url(#Path_6114_1_);}
+	.st35{fill:url(#Rectangle_23199_1_);}
+	.st36{fill:url(#Path_6115_1_);}
+	.st37{fill:url(#Path_6116_1_);}
+	.st38{fill:url(#Path_6117_1_);}
+	.st39{fill:url(#Rectangle_23200_1_);}
+	.st40{fill:url(#Path_6118_1_);}
+	.st41{fill:url(#Path_6119_1_);}
+	.st42{fill:url(#Rectangle_23201_1_);}
+	.st43{fill:#E75225;}
+	.st44{fill:#5A230E;}
+	.st45{fill:url(#Path_6127_1_);}
+	.st46{fill:url(#Path_6128_1_);}
+	.st47{fill:url(#Path_6129_1_);}
+	.st48{fill:url(#Path_6130_1_);}
+	.st49{fill:url(#Path_6328_1_);}
+	.st50{fill:url(#Path_6329_1_);}
+	.st51{fill:url(#Path_6043_2_);}
+	.st52{fill:url(#Path_6046_2_);}
+	.st53{fill:url(#Path_6047_2_);}
+	.st54{fill:url(#Path_6048_2_);}
+	.st55{fill:url(#Path_6051_2_);}
+	.st56{fill:url(#Path_6052_2_);}
+	.st57{fill:url(#Path_6053_2_);}
+	.st58{fill:url(#Path_6056_2_);}
+	.st59{fill:url(#Path_6059_2_);}
+	.st60{fill:url(#Path_6060_2_);}
+	.st61{fill:#558D3F;}
+	.st62{fill:url(#Path_6062_2_);}
+	.st63{fill:url(#Rectangle_22992_2_);}
+	.st64{fill:url(#Path_6063_2_);}
+	.st65{fill:url(#Rectangle_22993_2_);}
+	.st66{fill:url(#Path_6064_2_);}
+	.st67{fill:url(#Path_6065_2_);}
+	.st68{fill:#68A744;}
+	.st69{opacity:0.4;fill:url(#Path_6067_2_);enable-background:new    ;}
+	.st70{fill:url(#Path_6068_2_);}
+	.st71{fill:url(#Path_6069_2_);}
+	.st72{fill:url(#Path_6070_2_);}
+	.st73{fill:#A1CC40;}
+	.st74{fill:#CFCFCF;}
+	.st75{fill:url(#Rectangle_22995_2_);}
+	.st76{fill:url(#Rectangle_22996_2_);}
+	.st77{fill:url(#Rectangle_22997_2_);}
+	.st78{fill:url(#Rectangle_22998_2_);}
+	.st79{opacity:0.37;fill:url(#Path_6072_2_);enable-background:new    ;}
+	.st80{fill:url(#Path_6073_2_);}
+	.st81{fill:url(#Path_6074_2_);}
+	.st82{fill:url(#Rectangle_22999_2_);}
+	.st83{fill:url(#Rectangle_23000_2_);}
+	.st84{fill:url(#Rectangle_23001_2_);}
+	.st85{fill:url(#Rectangle_23002_2_);}
+	.st86{fill:url(#Rectangle_23003_2_);}
+	.st87{fill:url(#Rectangle_23004_2_);}
+	.st88{fill:url(#Rectangle_23005_2_);}
+	.st89{fill:url(#Rectangle_23006_2_);}
+	.st90{fill:url(#Rectangle_23007_2_);}
+	.st91{fill:url(#Rectangle_23008_2_);}
+	.st92{fill:url(#Rectangle_23009_2_);}
+	.st93{fill:url(#Rectangle_23010_2_);}
+	.st94{fill:url(#Rectangle_23011_2_);}
+	.st95{fill:url(#Rectangle_23012_2_);}
+	.st96{fill:url(#Path_6140_1_);}
+	.st97{fill:url(#Path_6143_1_);}
+	.st98{fill:#BED0BD;}
+	.st99{fill:#B4B4B5;}
+	.st100{fill:url(#Path_6140-2_1_);}
+	.st101{fill:url(#Path_6143-2_1_);}
+	.st102{fill:url(#SVGID_1_);}
+	.st103{fill:#B1C3B4;}
+	.st104{fill:#5F7270;}
+	.st105{fill:#95A7A0;}
+	.st106{fill:url(#Path_6133_1_);}
+	.st107{fill:url(#Path_6134_1_);}
+	.st108{fill:url(#Path_6144_1_);}
+	.st109{fill:url(#Path_6145_1_);}
+	.st110{fill:url(#Path_6151_2_);}
+	.st111{fill:url(#Path_6151_3_);}
+	.st112{fill:url(#Path_6154_1_);}
+	.st113{fill:url(#Path_6157_1_);}
+	.st114{fill:url(#Path_6158_1_);}
+	.st115{fill:url(#Rectangle_23360_1_);}
+	.st116{fill:url(#Rectangle_23361_1_);}
+	.st117{fill:url(#Path_6159_1_);}
+	.st118{fill:url(#Path_6160_1_);}
+	.st119{fill:url(#Rectangle_23362_1_);}
+	.st120{fill:url(#Rectangle_23363_1_);}
+	.st121{fill:url(#Rectangle_23364_1_);}
+	.st122{fill:url(#Rectangle_23365_1_);}
+	.st123{fill:url(#Rectangle_23366_1_);}
+	.st124{fill:url(#Rectangle_23367_1_);}
+	.st125{fill:url(#Rectangle_23368_1_);}
+	.st126{fill:url(#Rectangle_23369_1_);}
+	.st127{fill:url(#Rectangle_23370_1_);}
+	.st128{fill:url(#Rectangle_23371_1_);}
+	.st129{fill:url(#Rectangle_23372_1_);}
+	.st130{fill:url(#Rectangle_23373_1_);}
+	.st131{fill:url(#Rectangle_23374_1_);}
+	.st132{fill:url(#Rectangle_23375_1_);}
+	.st133{fill:url(#Rectangle_23376_1_);}
+	.st134{fill:url(#Rectangle_23377_1_);}
+	.st135{fill:url(#Rectangle_23378_1_);}
+	.st136{fill:url(#Rectangle_23379_1_);}
+	.st137{fill:url(#Rectangle_23380_1_);}
+	.st138{fill:url(#Rectangle_23381_1_);}
+	.st139{fill:url(#Rectangle_23382_1_);}
+	.st140{fill:url(#Rectangle_23383_1_);}
+	.st141{fill:url(#Rectangle_23384_1_);}
+	.st142{fill:url(#Rectangle_23385_1_);}
+	.st143{fill:url(#Rectangle_23386_1_);}
+	.st144{fill:url(#Rectangle_23387_1_);}
+	.st145{fill:url(#Rectangle_23388_1_);}
+	.st146{fill:url(#Rectangle_23389_1_);}
+	.st147{fill:url(#Rectangle_23390_1_);}
+	.st148{fill:url(#Rectangle_23391_1_);}
+	.st149{fill:url(#Rectangle_23392_1_);}
+	.st150{fill:url(#Rectangle_23393_1_);}
+	.st151{fill:url(#Rectangle_23394_1_);}
+	.st152{fill:url(#Rectangle_23395_1_);}
+	.st153{fill:url(#Rectangle_23396_1_);}
+	.st154{fill:url(#Rectangle_23397_1_);}
+	.st155{fill:url(#Rectangle_23398_1_);}
+	.st156{fill:url(#Rectangle_23399_1_);}
+	.st157{fill:url(#Rectangle_23400_1_);}
+	.st158{fill:url(#Rectangle_23401_1_);}
+	.st159{fill:url(#Rectangle_23402_1_);}
+	.st160{fill:url(#Rectangle_23403_1_);}
+	.st161{fill:url(#Rectangle_23404_1_);}
+	.st162{fill:url(#Rectangle_23405_1_);}
+	.st163{fill:url(#Rectangle_23406_1_);}
+	.st164{fill:url(#Rectangle_23407_1_);}
+	.st165{fill:url(#Rectangle_23408_1_);}
+	.st166{fill:url(#Rectangle_23409_1_);}
+	.st167{fill:url(#Rectangle_23410_1_);}
+	.st168{fill:url(#Rectangle_23411_1_);}
+	.st169{fill:url(#Rectangle_23412_1_);}
+	.st170{fill:url(#Rectangle_23413_1_);}
+	.st171{fill:url(#Rectangle_23414_1_);}
+	.st172{fill:url(#Rectangle_23415_1_);}
+	.st173{fill:url(#Rectangle_23416_1_);}
+	.st174{fill:url(#Rectangle_23417_1_);}
+	.st175{fill:url(#Path_6161_1_);}
+	.st176{fill:url(#Path_6162_1_);}
+	.st177{fill:#898989;}
+	.st178{fill:#212120;}
+	.st179{fill:#595A5A;}
+	.st180{fill:url(#Rectangle_23423_1_);}
+	.st181{fill:url(#Rectangle_23424_1_);}
+	.st182{fill:url(#Path_6166_1_);}
+	.st183{fill:url(#Path_6167_1_);}
+	.st184{fill:url(#Rectangle_23425_1_);}
+	.st185{fill:url(#Path_6168_1_);}
+	.st186{fill:url(#Path_6169_1_);}
+	.st187{fill:url(#Path_6170_1_);}
+	.st188{fill:url(#Rectangle_23426_1_);}
+	.st189{fill:url(#Rectangle_23427_1_);}
+	.st190{fill:url(#Path_6171_1_);}
+	.st191{fill:url(#Rectangle_23428_1_);}
+	.st192{fill:#025887;}
+	.st193{fill:#035988;}
+	.st194{fill:#104671;}
+	.st195{fill:#0068A0;}
+	.st196{opacity:0.3;fill:#0E4169;enable-background:new    ;}
+	.st197{fill:#0E4169;}
+</style>
+<g id="Group_5260" transform="translate(-248.309 -184.501)">
+	
+		<radialGradient id="Path_6144_1_" cx="-3954.9285" cy="5824.5625" r="1.1732" gradientTransform="matrix(7.896 0 0 -7.8822 31949.459 46471.6094)" gradientUnits="userSpaceOnUse">
+		<stop  offset="4.000000e-03" style="stop-color:#C8C8C8"/>
+		<stop  offset="1" style="stop-color:#8C8F8E"/>
+	</radialGradient>
+	<path id="Path_6144" class="st108" d="M264.06,414.06c-2.72,0-4.94,1.32-4.94,2.95v18.35c0,1.63,2.21,2.95,4.94,2.95
+		s4.93-1.32,4.93-2.95v-18.35C268.99,415.38,266.79,414.06,264.06,414.06z"/>
+	<g id="Group_5225" transform="translate(336.38 211.167)">
+		<g id="Group_5224">
+			<rect id="Rectangle_23208" x="149.17" y="88.78" width="2" height="70.14"/>
+			<g id="Group_5223">
+				
+					<linearGradient id="Path_6145_1_" gradientUnits="userSpaceOnUse" x1="-4663.8228" y1="6509.5649" x2="-4662.5176" y2="6509.5537" gradientTransform="matrix(4.000000e-15 66.053 22.144 -1.000000e-15 -143982.9844 308142.9063)">
+					<stop  offset="0" style="stop-color:#3B3B3B"/>
+					<stop  offset="0.21" style="stop-color:#6E6E6F"/>
+					<stop  offset="0.388" style="stop-color:#7B7B7B"/>
+					<stop  offset="0.54" style="stop-color:#444444"/>
+					<stop  offset="0.898" style="stop-color:#161616"/>
+					<stop  offset="1" style="stop-color:#262626"/>
+				</linearGradient>
+				<path id="Path_6145" class="st109" d="M172.46,166.03H157.1c-3.4,0-6.15-3.18-6.15-7.11V90.56c0-3.93,2.76-7.12,6.15-7.12h15.36
+					c3.39,0,6.15,3.19,6.15,7.12v68.36C178.61,162.86,175.85,166.03,172.46,166.03z"/>
+				<g id="Group_5217" transform="translate(5.121 16.5)">
+					<path id="Path_6146" class="st7" d="M145.82,142.43h7.05v4.79h-5.41C146.39,145.86,145.82,144.17,145.82,142.43z"/>
+					<rect id="Rectangle_23209" x="145.04" y="130.92" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23210" x="145.04" y="119.4" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23211" x="145.04" y="107.89" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23212" x="145.04" y="96.38" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23213" x="145.04" y="84.87" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23214" x="145.04" y="73.35" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5218" transform="translate(5.121)" class="st6">
+					<path id="Path_6147" class="st7" d="M165.66,163.72v-4.79h7.83c0.01,1.74-0.57,3.42-1.63,4.79L165.66,163.72z"/>
+					<rect id="Rectangle_23215" x="165.66" y="147.42" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23216" x="165.66" y="135.9" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23217" x="165.66" y="124.39" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23218" x="165.66" y="112.88" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23219" x="165.66" y="101.37" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23220" x="165.66" y="89.85" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5219" transform="translate(9.214 7.938)" class="st6">
+					<rect id="Rectangle_23221" x="151.65" y="144.59" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23222" x="151.65" y="133.08" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23223" x="151.65" y="121.56" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23224" x="151.65" y="110.06" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23225" x="151.65" y="98.53" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23226" x="151.65" y="87.03" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5220" transform="translate(5.121 7.938)" class="st6">
+					<rect id="Rectangle_23227" x="155.75" y="150.99" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23228" x="155.75" y="139.48" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23229" x="155.75" y="127.96" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23230" x="155.75" y="116.45" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23231" x="155.75" y="104.94" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23232" x="155.75" y="93.43" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23233" x="155.75" y="81.91" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5221" transform="translate(9.214 0)" class="st6">
+					<rect id="Rectangle_23234" x="161.57" y="152.53" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23235" x="161.57" y="141.02" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23236" x="161.57" y="129.5" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23237" x="161.57" y="118" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23238" x="161.57" y="106.47" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23239" x="161.57" y="94.97" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5222" transform="translate(9.214 16.501)">
+					<rect id="Rectangle_23240" x="140.95" y="136.03" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23241" x="140.95" y="124.52" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23242" x="140.95" y="113" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23243" x="140.95" y="101.49" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23244" x="140.95" y="89.97" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23245" x="140.95" y="78.47" class="st7" width="7.83" height="4.79"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Group_5243" transform="translate(524.327 341.266)">
+		<g id="Group_5242">
+			<rect id="Rectangle_23284" x="-171.58" y="222.31" width="1.64" height="57.82"/>
+			<g id="Group_5241" transform="translate(0 0.549)">
+				
+					<linearGradient id="Path_6151_2_" gradientUnits="userSpaceOnUse" x1="-4810.6523" y1="6482.2554" x2="-4810.6523" y2="6477.7847" gradientTransform="matrix(3.000000e-15 45.717 15.345 -1.000000e-15 -99120.2969 220180.0469)">
+					<stop  offset="0" style="stop-color:#3B3B3B"/>
+					<stop  offset="0.347" style="stop-color:#9B9B9B"/>
+					<stop  offset="0.669" style="stop-color:#262626"/>
+					<stop  offset="1" style="stop-color:#1B1C1C"/>
+				</linearGradient>
+				<path id="Path_6151" class="st110" d="M-189.13,285.43h12.66c3.01-0.23,5.27-2.85,5.07-5.86v-56.34
+					c0.2-3.01-2.06-5.63-5.07-5.86h-12.66c-3.01,0.23-5.28,2.85-5.08,5.86v56.34C-194.4,282.59-192.14,285.2-189.13,285.43z"/>
+				<g id="Group_5235" transform="translate(3.54)">
+					<path id="Path_6152" class="st7" d="M-174.94,279.57h-5.8v3.95h4.46C-175.4,282.39-174.93,281-174.94,279.57z"/>
+					<rect id="Rectangle_23285" x="-180.75" y="270.09" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23286" x="-180.75" y="260.6" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23287" x="-180.75" y="251.1" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23288" x="-180.75" y="241.61" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23289" x="-180.75" y="232.13" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23290" x="-180.75" y="222.64" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5236" transform="translate(3.54 11.421)">
+					<path id="Path_6153" class="st7" d="M-191.28,272.1v-3.95h-6.46c-0.01,1.43,0.47,2.82,1.35,3.95H-191.28z"/>
+					<rect id="Rectangle_23291" x="-197.74" y="258.67" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23292" x="-197.74" y="249.17" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23293" x="-197.74" y="239.68" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23294" x="-197.74" y="230.19" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23295" x="-197.74" y="220.71" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23296" x="-197.74" y="211.22" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5237" transform="translate(6.375 5.928)">
+					<rect id="Rectangle_23297" x="-192.4" y="268.37" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23298" x="-192.4" y="258.89" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23299" x="-192.4" y="249.39" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23300" x="-192.4" y="239.91" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23301" x="-192.4" y="230.41" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23302" x="-192.4" y="220.93" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5238" transform="translate(3.54 5.928)">
+					<rect id="Rectangle_23303" x="-189.57" y="273.64" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23304" x="-189.57" y="264.16" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23305" x="-189.57" y="254.67" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23306" x="-189.57" y="245.18" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23307" x="-189.57" y="235.69" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23308" x="-189.57" y="226.2" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23309" x="-189.57" y="216.71" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5239" transform="translate(6.375 11.422)">
+					<rect id="Rectangle_23310" x="-200.58" y="262.88" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23311" x="-200.58" y="253.39" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23312" x="-200.58" y="243.9" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23313" x="-200.58" y="234.42" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23314" x="-200.58" y="224.92" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23315" x="-200.58" y="215.44" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5240" transform="translate(6.375)">
+					<rect id="Rectangle_23316" x="-183.58" y="274.3" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23317" x="-183.58" y="264.82" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23318" x="-183.58" y="255.32" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23319" x="-183.58" y="245.84" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23320" x="-183.58" y="236.34" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23321" x="-183.58" y="226.86" class="st7" width="6.46" height="3.95"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Group_5243_1_" transform="translate(524.327 341.266)">
+		<g id="Group_5242_1_">
+			<rect id="Rectangle_23284_1_" x="-16.41" y="222.31" width="1.64" height="57.82"/>
+			<g id="Group_5241_1_" transform="translate(0 0.549)">
+				
+					<linearGradient id="Path_6151_3_" gradientUnits="userSpaceOnUse" x1="-4810.6523" y1="6492.3677" x2="-4810.6523" y2="6487.897" gradientTransform="matrix(3.000000e-15 45.717 15.345 -1.000000e-15 -99120.2969 220180.0469)">
+					<stop  offset="0" style="stop-color:#3B3B3B"/>
+					<stop  offset="0.347" style="stop-color:#9B9B9B"/>
+					<stop  offset="0.669" style="stop-color:#262626"/>
+					<stop  offset="1" style="stop-color:#1B1C1C"/>
+				</linearGradient>
+				<path id="Path_6151_1_" class="st111" d="M-33.96,285.43h12.66c3.01-0.23,5.27-2.85,5.07-5.86v-56.34
+					c0.2-3.01-2.06-5.63-5.07-5.86h-12.66c-3.01,0.23-5.28,2.85-5.08,5.86v56.34C-39.23,282.59-36.97,285.2-33.96,285.43z"/>
+				<g id="Group_5235_1_" transform="translate(3.54)">
+					<path id="Path_6152_1_" class="st7" d="M-19.77,279.57h-5.8v3.95h4.46C-20.23,282.39-19.76,281-19.77,279.57z"/>
+					<rect id="Rectangle_23285_1_" x="-25.58" y="270.09" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23286_1_" x="-25.58" y="260.6" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23287_1_" x="-25.58" y="251.1" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23288_1_" x="-25.58" y="241.61" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23289_1_" x="-25.58" y="232.13" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23290_1_" x="-25.58" y="222.64" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5236_1_" transform="translate(3.54 11.421)">
+					<path id="Path_6153_1_" class="st7" d="M-36.11,272.1v-3.95h-6.46c-0.01,1.43,0.47,2.82,1.35,3.95H-36.11z"/>
+					<rect id="Rectangle_23291_1_" x="-42.57" y="258.67" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23292_1_" x="-42.57" y="249.17" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23293_1_" x="-42.57" y="239.68" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23294_1_" x="-42.57" y="230.19" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23295_1_" x="-42.57" y="220.71" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23296_1_" x="-42.57" y="211.22" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5237_1_" transform="translate(6.375 5.928)">
+					<rect id="Rectangle_23297_1_" x="-37.23" y="268.37" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23298_1_" x="-37.23" y="258.89" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23299_1_" x="-37.23" y="249.39" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23300_1_" x="-37.23" y="239.91" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23301_1_" x="-37.23" y="230.41" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23302_1_" x="-37.23" y="220.93" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5238_1_" transform="translate(3.54 5.928)">
+					<rect id="Rectangle_23303_1_" x="-34.4" y="273.64" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23304_1_" x="-34.4" y="264.16" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23305_1_" x="-34.4" y="254.67" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23306_1_" x="-34.4" y="245.18" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23307_1_" x="-34.4" y="235.69" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23308_1_" x="-34.4" y="226.2" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23309_1_" x="-34.4" y="216.71" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5239_1_" transform="translate(6.375 11.422)">
+					<rect id="Rectangle_23310_1_" x="-45.41" y="262.88" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23311_1_" x="-45.41" y="253.39" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23312_1_" x="-45.41" y="243.9" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23313_1_" x="-45.41" y="234.42" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23314_1_" x="-45.41" y="224.92" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23315_1_" x="-45.41" y="215.44" class="st7" width="6.46" height="3.95"/>
+				</g>
+				<g id="Group_5240_1_" transform="translate(6.375)">
+					<rect id="Rectangle_23316_1_" x="-28.41" y="274.3" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23317_1_" x="-28.41" y="264.82" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23318_1_" x="-28.41" y="255.32" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23319_1_" x="-28.41" y="245.84" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23320_1_" x="-28.41" y="236.34" class="st7" width="6.46" height="3.95"/>
+					<rect id="Rectangle_23321_1_" x="-28.41" y="226.86" class="st7" width="6.46" height="3.95"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Group_5252" transform="translate(336.38 341.914)">
+		<g id="Group_5251">
+			<rect id="Rectangle_23322" x="13.26" y="-41.96" width="2" height="70.14"/>
+			<g id="Group_5250" transform="translate(0 0.796)">
+				
+					<linearGradient id="Path_6154_1_" gradientUnits="userSpaceOnUse" x1="-4663.8228" y1="6376.5049" x2="-4662.5176" y2="6376.4937" gradientTransform="matrix(4.000000e-15 66.053 22.148 -1.000000e-15 -141226.9375 308011.375)">
+					<stop  offset="0" style="stop-color:#3B3B3B"/>
+					<stop  offset="0.21" style="stop-color:#6E6E6F"/>
+					<stop  offset="0.388" style="stop-color:#7B7B7B"/>
+					<stop  offset="0.54" style="stop-color:#444444"/>
+					<stop  offset="0.898" style="stop-color:#161616"/>
+					<stop  offset="1" style="stop-color:#262626"/>
+				</linearGradient>
+				<path id="Path_6154" class="st112" d="M-8.03,34.49H7.32c3.4,0,6.16-3.18,6.16-7.11v-68.36c0-3.93-2.76-7.12-6.16-7.12H-8.04
+					c-3.4,0-6.15,3.19-6.15,7.12v68.36C-14.19,31.31-11.43,34.49-8.03,34.49z"/>
+				<g id="Group_5244" transform="translate(5.121)">
+					<path id="Path_6155" class="st7" d="M8.36,27.39H1.31v4.79h5.41C7.79,30.81,8.37,29.12,8.36,27.39z"/>
+					<rect id="Rectangle_23323" x="1.31" y="15.87" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23324" x="1.31" y="4.36" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23325" x="1.31" y="-7.15" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23326" x="1.31" y="-18.67" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23327" x="1.31" y="-30.18" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23328" x="1.31" y="-41.69" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5245" transform="translate(5.121 16.502)" class="st6">
+					<path id="Path_6156" class="st7" d="M-11.48,15.68v-4.79h-7.83c-0.01,1.74,0.57,3.42,1.64,4.79L-11.48,15.68z"/>
+					<rect id="Rectangle_23329" x="-19.31" y="-0.63" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23330" x="-19.31" y="-12.14" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23331" x="-19.31" y="-23.65" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23332" x="-19.31" y="-35.17" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23333" x="-19.31" y="-46.68" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23334" x="-19.31" y="-58.19" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5246" transform="translate(9.214 8.565)" class="st6">
+					<rect id="Rectangle_23335" x="-13.48" y="12.42" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23336" x="-13.48" y="0.91" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23337" x="-13.48" y="-10.61" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23338" x="-13.48" y="-22.11" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23339" x="-13.48" y="-33.64" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23340" x="-13.48" y="-45.14" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5247" transform="translate(5.121 8.565)" class="st6">
+					<rect id="Rectangle_23341" x="-9.39" y="18.82" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23342" x="-9.39" y="7.31" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23343" x="-9.39" y="-4.21" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23344" x="-9.39" y="-15.72" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23345" x="-9.39" y="-27.23" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23346" x="-9.39" y="-38.74" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23347" x="-9.39" y="-50.26" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5248" transform="translate(9.214 16.502)" class="st6">
+					<rect id="Rectangle_23348" x="-23.4" y="4.49" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23349" x="-23.4" y="-7.03" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23350" x="-23.4" y="-18.54" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23351" x="-23.4" y="-30.05" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23352" x="-23.4" y="-41.57" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23353" x="-23.4" y="-53.08" class="st7" width="7.83" height="4.79"/>
+				</g>
+				<g id="Group_5249" transform="translate(9.214)">
+					<rect id="Rectangle_23354" x="-2.78" y="20.99" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23355" x="-2.78" y="9.47" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23356" x="-2.78" y="-2.04" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23357" x="-2.78" y="-13.55" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23358" x="-2.78" y="-25.07" class="st7" width="7.83" height="4.79"/>
+					<rect id="Rectangle_23359" x="-2.78" y="-36.57" class="st7" width="7.83" height="4.79"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	
+		<linearGradient id="Path_6157_1_" gradientUnits="userSpaceOnUse" x1="-4390.6709" y1="6587.0752" x2="-4389.8892" y2="6587.0752" gradientTransform="matrix(1.500000e-14 243.384 135.4927 -8.000000e-15 -892081.875 1068942)">
+		<stop  offset="0" style="stop-color:#FAC310"/>
+		<stop  offset="1" style="stop-color:#EB9222"/>
+	</linearGradient>
+	<path id="Path_6157" class="st113" d="M497.12,290.6l-35.82-8.95v95.91H375.9v-95.91l-26.87,8.95
+		c-8.24-0.01-14.93,6.67-14.94,14.91c0,0,0,0,0,0v303.56c0.01,8.24,6.69,14.92,14.93,14.92c0,0,0,0,0,0h148.09
+		c8.25,0,5.97-6.68,5.97-14.91V305.51C503.09,297.27,505.36,290.6,497.12,290.6z"/>
+	
+		<radialGradient id="Path_6158_1_" cx="-4361.9307" cy="6475.0986" r="1.262" gradientTransform="matrix(68.347 0 0 -68.2585 298727.2188 442641.4375)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#E3E7E6"/>
+	</radialGradient>
+	<path id="Path_6158" class="st114" d="M375.9,281.65v228.39h85.39V281.65H375.9z"/>
+	
+		<linearGradient id="Rectangle_23360_1_" gradientUnits="userSpaceOnUse" x1="-4338.0522" y1="6838.854" x2="-4337.7622" y2="6838.854" gradientTransform="matrix(5.000000e-15 76.707 12.703 -1.000000e-15 -86404.7344 333231.9063)">
+		<stop  offset="0.208" style="stop-color:#212120"/>
+		<stop  offset="0.48" style="stop-color:#272727"/>
+		<stop  offset="0.858" style="stop-color:#393939"/>
+		<stop  offset="1" style="stop-color:#424243"/>
+	</linearGradient>
+	<rect id="Rectangle_23360" x="461.29" y="376.1" class="st115" width="15.87" height="133.94"/>
+	
+		<linearGradient id="Rectangle_23361_1_" gradientUnits="userSpaceOnUse" x1="-4339.8823" y1="6848.1826" x2="-4339.6045" y2="6848.1826" gradientTransform="matrix(5.000000e-15 76.707 12.22 -1.000000e-15 -83316.5313 333231.9063)">
+		<stop  offset="0.208" style="stop-color:#212120"/>
+		<stop  offset="0.48" style="stop-color:#272727"/>
+		<stop  offset="0.858" style="stop-color:#393939"/>
+		<stop  offset="1" style="stop-color:#424243"/>
+	</linearGradient>
+	<rect id="Rectangle_23361" x="360.63" y="376.1" class="st116" width="15.27" height="133.94"/>
+	
+		<linearGradient id="Path_6159_1_" gradientUnits="userSpaceOnUse" x1="-4270.4326" y1="6601.1743" x2="-4267.6157" y2="6601.1743" gradientTransform="matrix(2.000000e-15 38.92 87.81 -5.000000e-15 -579230.5 166591.3281)">
+		<stop  offset="0" style="stop-color:#171717"/>
+		<stop  offset="1" style="stop-color:#5C5D5D"/>
+	</linearGradient>
+	<path id="Path_6159" class="st117" d="M458.52,672.64h-79.85c-8.24,0.01-14.92-6.66-14.93-14.91c0,0,0-0.01,0-0.01v-33.75h109.71
+		v33.75C473.44,665.97,466.76,672.64,458.52,672.64z"/>
+	
+		<linearGradient id="Path_6160_1_" gradientUnits="userSpaceOnUse" x1="-4230.5444" y1="6608.9932" x2="-4229.2944" y2="6608.9932" gradientTransform="matrix(2.000000e-15 31.772 73.472 -4.000000e-15 -485157.3438 135036.8438)">
+		<stop  offset="0" style="stop-color:#B17029"/>
+		<stop  offset="0.208" style="stop-color:#EE9C20"/>
+		<stop  offset="1" style="stop-color:#FAC310"/>
+	</linearGradient>
+	<path id="Path_6160" class="st118" d="M378.67,663.69c-3.29,0-5.97-2.67-5.97-5.97v-33.76l91.8,0.01v33.75
+		c-0.01,3.3-2.68,5.97-5.97,5.97L378.67,663.69z"/>
+	
+		<linearGradient id="Rectangle_23362_1_" gradientUnits="userSpaceOnUse" x1="-4338.873" y1="7457.6641" x2="-4338.7837" y2="7457.6641" gradientTransform="matrix(5.000000e-15 76.707 3.924 0 -28845.2793 333231.9063)">
+		<stop  offset="0" style="stop-color:#818282"/>
+		<stop  offset="1" style="stop-color:#8F8F8F"/>
+	</linearGradient>
+	<rect id="Rectangle_23362" x="416.14" y="376.1" class="st119" width="4.9" height="133.94"/>
+	
+		<radialGradient id="Rectangle_23363_1_" cx="-4361.7202" cy="6475.9243" r="0.9558" gradientTransform="matrix(68.346 0 0 -68.2827 298710.4375 442681.3125)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#D5D6D5"/>
+	</radialGradient>
+	<rect id="Rectangle_23363" x="375.9" y="510.03" class="st120" width="85.39" height="75.63"/>
+	
+		<linearGradient id="Rectangle_23364_1_" gradientUnits="userSpaceOnUse" x1="-4117.0122" y1="6617.187" x2="-4117.0122" y2="6616.8345" gradientTransform="matrix(1.000000e-15 19.336 68.346 -4.000000e-15 -451525.0938 79876.2266)">
+		<stop  offset="0" style="stop-color:#363B39"/>
+		<stop  offset="1" style="stop-color:#1B1C1C"/>
+	</linearGradient>
+	<rect id="Rectangle_23364" x="375.9" y="257.59" class="st121" width="85.39" height="24.18"/>
+	
+		<linearGradient id="Rectangle_23365_1_" gradientUnits="userSpaceOnUse" x1="-4249.8228" y1="6580.6299" x2="-4249.8228" y2="6580.2764" gradientTransform="matrix(2.000000e-15 34.945 199.667 -1.200000e-14 -1313136.625 148748.25)">
+		<stop  offset="0" style="stop-color:#A2A2A3"/>
+		<stop  offset="1" style="stop-color:#6B6B6B"/>
+	</linearGradient>
+	<rect id="Rectangle_23365" x="293.86" y="216.35" class="st122" width="249.46" height="43.69"/>
+	
+		<linearGradient id="Rectangle_23366_1_" gradientUnits="userSpaceOnUse" x1="-4231.1426" y1="6581.0908" x2="-4231.1426" y2="6580.7183" gradientTransform="matrix(2.000000e-15 31.374 194.887 -1.200000e-14 -1281774.375 132986.0781)">
+		<stop  offset="0" style="stop-color:#F6F7F7"/>
+		<stop  offset="1" style="stop-color:#A8AAA9"/>
+	</linearGradient>
+	<rect id="Rectangle_23366" x="296.85" y="218.59" class="st123" width="243.49" height="39.23"/>
+	
+		<linearGradient id="Rectangle_23367_1_" gradientUnits="userSpaceOnUse" x1="-3996.8618" y1="8157.979" x2="-3996.8618" y2="8146.3872" gradientTransform="matrix(1.000000e-15 13.729 2.39 0 -18681.9004 55065.9961)">
+		<stop  offset="0" style="stop-color:#A2A2A3"/>
+		<stop  offset="1" style="stop-color:#6B6B6B"/>
+	</linearGradient>
+	<rect id="Rectangle_23367" x="540.34" y="184.5" class="st124" width="2.99" height="17.17"/>
+	
+		<linearGradient id="Rectangle_23368_1_" gradientUnits="userSpaceOnUse" x1="-3996.8618" y1="8240.541" x2="-3996.8618" y2="8228.9492" gradientTransform="matrix(1.000000e-15 13.729 2.39 0 -18879.1758 55065.9961)">
+		<stop  offset="0" style="stop-color:#A2A2A3"/>
+		<stop  offset="1" style="stop-color:#6B6B6B"/>
+	</linearGradient>
+	<rect id="Rectangle_23368" x="293.86" y="184.5" class="st125" width="2.99" height="17.17"/>
+	
+		<linearGradient id="Rectangle_23369_1_" gradientUnits="userSpaceOnUse" x1="-2504.6211" y1="6580.8833" x2="-2504.6211" y2="6580.8521" gradientTransform="matrix(0 3.004 194.887 -1.200000e-14 -1281774.375 7764.4932)">
+		<stop  offset="0" style="stop-color:#363B39"/>
+		<stop  offset="1" style="stop-color:#1B1C1C"/>
+	</linearGradient>
+	<rect id="Rectangle_23369" x="296.85" y="238.73" class="st126" width="243.49" height="3.76"/>
+	
+		<linearGradient id="Rectangle_23370_1_" gradientUnits="userSpaceOnUse" x1="-2503.9331" y1="6580.9771" x2="-2503.9331" y2="6580.9458" gradientTransform="matrix(0 3.001 194.887 -1.200000e-14 -1281774.375 7736.6157)">
+		<stop  offset="0" style="stop-color:#363B39"/>
+		<stop  offset="1" style="stop-color:#1B1C1C"/>
+	</linearGradient>
+	<rect id="Rectangle_23370" x="296.85" y="220.44" class="st127" width="243.49" height="3.75"/>
+	
+		<linearGradient id="Rectangle_23371_1_" gradientUnits="userSpaceOnUse" x1="-2504.0288" y1="6581.0332" x2="-2504.0288" y2="6581.0034" gradientTransform="matrix(0 3 194.887 -1.200000e-14 -1281774.375 7723.4268)">
+		<stop  offset="0" style="stop-color:#363B39"/>
+		<stop  offset="1" style="stop-color:#1B1C1C"/>
+	</linearGradient>
+	<rect id="Rectangle_23371" x="296.85" y="209.47" class="st128" width="243.49" height="3.75"/>
+	<g id="Group_5253" transform="translate(285.383 194.862)">
+		
+			<linearGradient id="Rectangle_23372_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7680.8574" x2="-3789.53" y2="7676.6318" gradientTransform="matrix(0 6.303 3.009 0 -22632.8652 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23372" x="16.44" y="35.99" class="st129" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23373_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7678.9521" x2="-3789.53" y2="7674.7231" gradientTransform="matrix(0 6.303 3.007 0 -22611.7734 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23373" x="26.89" y="35.99" class="st130" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23374_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7675.3027" x2="-3789.53" y2="7671.0757" gradientTransform="matrix(0 6.303 3.009 0 -22616.1465 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23374" x="37.33" y="35.99" class="st131" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23375_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7673.3848" x2="-3789.53" y2="7669.1558" gradientTransform="matrix(0 6.303 3.007 0 -22595.0547 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23375" x="47.77" y="35.99" class="st132" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23376_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7670.6138" x2="-3789.53" y2="7666.3843" gradientTransform="matrix(0 6.303 3.007 0 -22586.6934 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23376" x="58.22" y="35.99" class="st133" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23377_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7666.9688" x2="-3789.53" y2="7662.7422" gradientTransform="matrix(0 6.303 3.009 0 -22591.0664 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23377" x="68.66" y="35.99" class="st134" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23378_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7663.7935" x2="-3789.53" y2="7659.5669" gradientTransform="matrix(0 6.303 3.01 0 -22589.0723 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23378" x="79.11" y="35.99" class="st135" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23379_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7662.2749" x2="-3789.53" y2="7658.0459" gradientTransform="matrix(0 6.303 3.007 0 -22561.6133 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23379" x="89.55" y="35.99" class="st136" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23380_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7658.6338" x2="-3789.53" y2="7654.4072" gradientTransform="matrix(0 6.303 3.009 0 -22565.9863 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23380" x="100" y="35.99" class="st137" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23381_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7656.7163" x2="-3789.53" y2="7652.4868" gradientTransform="matrix(0 6.303 3.007 0 -22544.8945 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23381" x="110.44" y="35.99" class="st138" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23382_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7653.9277" x2="-3789.53" y2="7649.6982" gradientTransform="matrix(0 6.303 3.007 0 -22536.5332 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23382" x="120.89" y="35.99" class="st139" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23383_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7650.2998" x2="-3789.53" y2="7646.0732" gradientTransform="matrix(0 6.303 3.009 0 -22540.9082 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23383" x="131.33" y="35.99" class="st140" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23384_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7647.522" x2="-3789.53" y2="7643.2954" gradientTransform="matrix(0 6.303 3.009 0 -22532.5469 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23384" x="141.78" y="35.99" class="st141" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23385_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7644.7441" x2="-3789.53" y2="7640.5176" gradientTransform="matrix(0 6.303 3.009 0 -22524.1895 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23385" x="152.22" y="35.99" class="st142" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23386_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7641.9946" x2="-3789.53" y2="7637.7681" gradientTransform="matrix(0 6.303 3.009 0 -22515.8281 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23386" x="162.66" y="35.99" class="st143" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23387_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7639.6128" x2="-3789.53" y2="7635.3848" gradientTransform="matrix(0 6.303 3.008 0 -22501.1016 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23387" x="173.11" y="35.99" class="st144" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23388_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7636.834" x2="-3789.53" y2="7632.606" gradientTransform="matrix(0 6.303 3.008 0 -22492.7422 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23388" x="183.55" y="35.99" class="st145" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23389_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7633.6587" x2="-3789.53" y2="7629.4307" gradientTransform="matrix(0 6.303 3.009 0 -22490.748 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23389" x="194" y="35.99" class="st146" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23390_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7630.8794" x2="-3789.53" y2="7626.6528" gradientTransform="matrix(0 6.303 3.009 0 -22482.3906 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23390" x="204.44" y="35.99" class="st147" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23391_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7628.4971" x2="-3789.53" y2="7624.269" gradientTransform="matrix(0 6.303 3.008 0 -22467.6621 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23391" x="214.89" y="35.99" class="st148" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23392_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7625.7183" x2="-3789.53" y2="7621.4902" gradientTransform="matrix(0 6.303 3.008 0 -22459.3027 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23392" x="225.33" y="35.99" class="st149" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23393_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7622.543" x2="-3789.53" y2="7618.3164" gradientTransform="matrix(0 6.303 3.009 0 -22457.3105 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23393" x="235.78" y="35.99" class="st150" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23394_1_" gradientUnits="userSpaceOnUse" x1="-3789.53" y1="7620.1602" x2="-3789.53" y2="7615.9336" gradientTransform="matrix(0 6.303 3.008 0 -22442.582 23925.3379)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23394" x="246.22" y="35.99" class="st151" width="3.76" height="7.88"/>
+	</g>
+	<g id="Group_5254" transform="translate(264.424 194.862)">
+		
+			<linearGradient id="Rectangle_23395_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7689.5732" x2="-3769.115" y2="7685.3477" gradientTransform="matrix(0 6.301 3.009 0 -22611.9063 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23395" x="37.4" y="9.79" class="st152" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23396_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7687.6743" x2="-3769.115" y2="7683.4463" gradientTransform="matrix(0 6.301 3.007 0 -22590.8145 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23396" x="47.84" y="9.79" class="st153" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23397_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7684.0171" x2="-3769.115" y2="7679.793" gradientTransform="matrix(0 6.301 3.009 0 -22595.1875 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23397" x="58.29" y="9.79" class="st154" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23398_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7682.1055" x2="-3769.115" y2="7677.8774" gradientTransform="matrix(0 6.301 3.007 0 -22574.0957 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23398" x="68.73" y="9.79" class="st155" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23399_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7679.3345" x2="-3769.115" y2="7675.1064" gradientTransform="matrix(0 6.301 3.007 0 -22565.7344 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23399" x="79.18" y="9.79" class="st156" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23400_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7675.6831" x2="-3769.115" y2="7671.459" gradientTransform="matrix(0 6.301 3.009 0 -22570.1074 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23400" x="89.62" y="9.79" class="st157" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23401_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7672.5083" x2="-3769.115" y2="7668.2842" gradientTransform="matrix(0 6.301 3.01 0 -22568.1133 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23401" x="100.07" y="9.79" class="st158" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23402_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7670.9971" x2="-3769.115" y2="7666.769" gradientTransform="matrix(0 6.301 3.007 0 -22540.6543 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23402" x="110.51" y="9.79" class="st159" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23403_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7667.3481" x2="-3769.115" y2="7663.124" gradientTransform="matrix(0 6.301 3.009 0 -22545.0273 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23403" x="120.96" y="9.79" class="st160" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23404_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7665.437" x2="-3769.115" y2="7661.209" gradientTransform="matrix(0 6.301 3.007 0 -22523.9355 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23404" x="131.4" y="9.79" class="st161" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23405_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7662.6484" x2="-3769.115" y2="7658.4204" gradientTransform="matrix(0 6.301 3.007 0 -22515.5742 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23405" x="141.85" y="9.79" class="st162" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23406_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7659.0156" x2="-3769.115" y2="7654.79" gradientTransform="matrix(0 6.301 3.009 0 -22519.9492 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23406" x="152.29" y="9.79" class="st163" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23407_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7656.2368" x2="-3769.115" y2="7652.0122" gradientTransform="matrix(0 6.301 3.009 0 -22511.5879 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23407" x="162.73" y="9.79" class="st164" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23408_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7653.46" x2="-3769.115" y2="7649.2344" gradientTransform="matrix(0 6.301 3.009 0 -22503.2305 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23408" x="173.18" y="9.79" class="st165" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23409_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7650.7134" x2="-3769.115" y2="7646.4863" gradientTransform="matrix(0 6.301 3.009 0 -22494.8691 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23409" x="183.62" y="9.79" class="st166" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23410_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7648.3311" x2="-3769.115" y2="7644.1045" gradientTransform="matrix(0 6.301 3.008 0 -22480.1426 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23410" x="194.07" y="9.79" class="st167" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23411_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7645.5522" x2="-3769.115" y2="7641.3257" gradientTransform="matrix(0 6.301 3.008 0 -22471.7832 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23411" x="204.51" y="9.79" class="st168" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23412_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7642.377" x2="-3769.115" y2="7638.1504" gradientTransform="matrix(0 6.301 3.009 0 -22469.7891 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23412" x="214.96" y="9.79" class="st169" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23413_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7639.5977" x2="-3769.115" y2="7635.3721" gradientTransform="matrix(0 6.301 3.009 0 -22461.4316 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23413" x="225.4" y="9.79" class="st170" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23414_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7637.2153" x2="-3769.115" y2="7632.9897" gradientTransform="matrix(0 6.301 3.008 0 -22446.7031 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23414" x="235.85" y="9.79" class="st171" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23415_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7634.4365" x2="-3769.115" y2="7630.21" gradientTransform="matrix(0 6.301 3.008 0 -22438.3438 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23415" x="246.29" y="9.79" class="st172" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23416_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7631.2612" x2="-3769.115" y2="7627.0347" gradientTransform="matrix(0 6.301 3.009 0 -22436.3516 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23416" x="256.74" y="9.79" class="st173" width="3.76" height="7.88"/>
+		
+			<linearGradient id="Rectangle_23417_1_" gradientUnits="userSpaceOnUse" x1="-3769.115" y1="7628.8799" x2="-3769.115" y2="7624.6528" gradientTransform="matrix(0 6.301 3.008 0 -22421.623 23762.918)">
+			<stop  offset="0" style="stop-color:#363B39"/>
+			<stop  offset="1" style="stop-color:#1B1C1C"/>
+		</linearGradient>
+		<rect id="Rectangle_23417" x="267.18" y="9.79" class="st174" width="3.76" height="7.88"/>
+	</g>
+	
+		<linearGradient id="Path_6161_1_" gradientUnits="userSpaceOnUse" x1="-4299.6802" y1="7154.9502" x2="-4299.6802" y2="7145.0425" gradientTransform="matrix(3.000000e-15 50.184 6.379 0 -44852.1563 216008.2031)">
+		<stop  offset="0" style="stop-color:#4F4F4F"/>
+		<stop  offset="1" style="stop-color:#1B1C1C"/>
+	</linearGradient>
+	<path id="Path_6161" class="st175" d="M540.34,201.66v58.38l7.97,4.36l-4.98-62.74L540.34,201.66z"/>
+	
+		<linearGradient id="Path_6162_1_" gradientUnits="userSpaceOnUse" x1="-4299.6802" y1="7186.4048" x2="-4299.6802" y2="7176.4995" gradientTransform="matrix(3.000000e-15 50.184 6.38 0 -45060.0313 216008.2031)">
+		<stop  offset="0" style="stop-color:#4F4F4F"/>
+		<stop  offset="1" style="stop-color:#1B1C1C"/>
+	</linearGradient>
+	<path id="Path_6162" class="st176" d="M296.85,201.66v58.38l-7.97,4.36l4.99-62.74L296.85,201.66z"/>
+	<g id="Group_5255" transform="translate(400.954 254.15)">
+		<rect id="Rectangle_23418" x="-25.06" y="121.2" class="st177" width="85.39" height="1.49"/>
+	</g>
+	<g id="Group_5256" transform="translate(477.976 254.15)">
+		<rect id="Rectangle_23419" x="-102.08" y="255.53" class="st177" width="85.39" height="1.49"/>
+	</g>
+	<g id="Group_5257" transform="translate(479.168 231.174)">
+		<path id="Path_6163" class="st178" d="M-129.83,376.22v-93.94c0-1.24,1-2.24,2.24-2.24c1.24,0,2.24,1,2.24,2.24v89.47H6.35v-89.51
+			c0-1.24,1-2.24,2.24-2.24c1.24,0,2.24,1,2.24,2.24v93.99H-129.83z"/>
+	</g>
+	<rect id="Rectangle_23420" x="461.29" y="510.03" class="st179" width="3.2" height="78.84"/>
+	<rect id="Rectangle_23421" x="372.83" y="585.67" class="st179" width="91.66" height="3.2"/>
+	<rect id="Rectangle_23422" x="372.7" y="510.03" class="st179" width="3.2" height="78.84"/>
+	<g id="Group_5258" transform="translate(334.591 222.846)">
+		<path id="Path_6164" class="st178" d="M130.43,71.78c0-0.13,0.01-0.26,0.03-0.38c0.21-1.22,1.37-2.03,2.58-1.83c0,0,0,0,0.01,0
+			l30.9,5.34c1.22,0.21,2.03,1.37,1.82,2.59c-0.21,1.22-1.37,2.03-2.59,1.82l0,0l-30.9-5.34C131.22,73.8,130.43,72.87,130.43,71.78z
+			"/>
+	</g>
+	<g id="Group_5259" transform="translate(334.591 325.484)">
+		<path id="Path_6165" class="st178" d="M2.19-25.54c0-1.09,0.79-2.02,1.86-2.2l30.9-5.34c1.21-0.24,2.39,0.55,2.63,1.76
+			c0.24,1.21-0.55,2.39-1.76,2.63c-0.03,0.01-0.07,0.01-0.1,0.02l-30.9,5.34c-1.22,0.21-2.38-0.61-2.59-1.82
+			C2.21-25.28,2.19-25.41,2.19-25.54z"/>
+	</g>
+	
+		<linearGradient id="Rectangle_23423_1_" gradientUnits="userSpaceOnUse" x1="-4337.7622" y1="6745.0098" x2="-4337.3257" y2="6745.0098" gradientTransform="matrix(5.000000e-15 76.707 19.207 -1.000000e-15 -129062.2422 333231.9063)">
+		<stop  offset="0" style="stop-color:#171717"/>
+		<stop  offset="1" style="stop-color:#5C5D5D"/>
+	</linearGradient>
+	<rect id="Rectangle_23423" x="477.16" y="376.1" class="st180" width="24" height="133.94"/>
+	
+		<linearGradient id="Rectangle_23424_1_" gradientUnits="userSpaceOnUse" x1="-4340.3188" y1="6743.5493" x2="-4339.8823" y2="6743.5493" gradientTransform="matrix(5.000000e-15 76.707 19.207 -1.000000e-15 -129174.7188 333231.9063)">
+		<stop  offset="0" style="stop-color:#5C5D5D"/>
+		<stop  offset="1" style="stop-color:#171717"/>
+	</linearGradient>
+	<rect id="Rectangle_23424" x="336.63" y="376.1" class="st181" width="24" height="133.94"/>
+	
+		<linearGradient id="Path_6166_1_" gradientUnits="userSpaceOnUse" x1="-3942.5002" y1="6854.4897" x2="-3941.2498" y2="6854.4897" gradientTransform="matrix(1.000000e-15 12.016 12.016 -1.000000e-15 -81909.0313 47842.1328)">
+		<stop  offset="0" style="stop-color:#5C5D5D"/>
+		<stop  offset="0.975" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#424243"/>
+	</linearGradient>
+	<path id="Path_6166" class="st182" d="M462.07,652.61c0.01,4.15-3.35,7.52-7.5,7.52c-4.15,0.01-7.51-3.35-7.52-7.5
+		c-0.01-4.15,3.35-7.52,7.5-7.52c0,0,0.01,0,0.01,0c4.14-0.01,7.5,3.35,7.51,7.49C462.07,652.6,462.07,652.6,462.07,652.61z"/>
+	
+		<linearGradient id="Path_6167_1_" gradientUnits="userSpaceOnUse" x1="-3653.384" y1="7034.1714" x2="-3652.1338" y2="7034.1714" gradientTransform="matrix(0 7.452 7.452 0 -51964.1563 27696.9258)">
+		<stop  offset="0" style="stop-color:#5C5D5D"/>
+		<stop  offset="1" style="stop-color:#424243"/>
+	</linearGradient>
+	<path id="Path_6167" class="st183" d="M459.22,652.61c0,2.57-2.08,4.66-4.65,4.67s-4.66-2.08-4.66-4.65c0-2.57,2.08-4.66,4.65-4.67
+		c0,0,0,0,0,0C457.13,647.95,459.22,650.03,459.22,652.61C459.22,652.6,459.22,652.61,459.22,652.61z"/>
+	
+		<linearGradient id="Rectangle_23425_1_" gradientUnits="userSpaceOnUse" x1="-3974.1685" y1="6674.6475" x2="-3971.1802" y2="6674.6475" gradientTransform="matrix(1.000000e-15 12.943 30.986 -2.000000e-15 -206402.0313 51859.1602)">
+		<stop  offset="0" style="stop-color:#5C5D5D"/>
+		<stop  offset="1" style="stop-color:#424243"/>
+	</linearGradient>
+	<rect id="Rectangle_23425" x="399.24" y="551.25" class="st184" width="38.71" height="16.18"/>
+	
+		<linearGradient id="Path_6168_1_" gradientUnits="userSpaceOnUse" x1="-3770.585" y1="6956.4341" x2="-3769.3345" y2="6956.4341" gradientTransform="matrix(1.000000e-15 8.914 8.914 -1.000000e-15 -61561.8789 34075.5391)">
+		<stop  offset="0" style="stop-color:#A8AAA9"/>
+		<stop  offset="1" style="stop-color:#6E6E6F"/>
+	</linearGradient>
+	<path id="Path_6168" class="st185" d="M453.46,559.34c0,3.08-2.49,5.58-5.56,5.58c-3.08,0-5.57-2.49-5.57-5.57
+		c0-3.08,2.49-5.58,5.56-5.58c0,0,0.01,0,0.01,0C450.96,553.77,453.46,556.26,453.46,559.34
+		C453.46,559.34,453.46,559.34,453.46,559.34z"/>
+	
+		<linearGradient id="Path_6169_1_" gradientUnits="userSpaceOnUse" x1="-4336.2402" y1="6838.9194" x2="-4336.0303" y2="6838.9194" gradientTransform="matrix(5.000000e-15 75.544 12.7 -1.000000e-15 -86385.0313 328022.4063)">
+		<stop  offset="0" style="stop-color:#8C8F8E"/>
+		<stop  offset="0.996" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="Path_6169" class="st186" d="M477.16,376.1h-15.87v-94.45l15.87,3.96V376.1z"/>
+	
+		<linearGradient id="Path_6170_1_" gradientUnits="userSpaceOnUse" x1="-4349.0923" y1="6855.2324" x2="-4348.8945" y2="6855.2324" gradientTransform="matrix(5.000000e-15 75.544 11.927 -1.000000e-15 -81394.1875 328022.4063)">
+		<stop  offset="0" style="stop-color:#8C8F8E"/>
+		<stop  offset="0.996" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="Path_6170" class="st187" d="M360.63,376.1h14.9v-94.45l-14.9,5.08L360.63,376.1z"/>
+	
+		<linearGradient id="Rectangle_23426_1_" gradientUnits="userSpaceOnUse" x1="-4322.5137" y1="6826.3374" x2="-4322.25" y2="6826.3374" gradientTransform="matrix(4.000000e-15 63.054 13.305 -1.000000e-15 -90351.8359 273038.25)">
+		<stop  offset="0" style="stop-color:#8C8F8E"/>
+		<stop  offset="0.996" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect id="Rectangle_23426" x="464.27" y="510.03" class="st188" width="16.62" height="78.84"/>
+	
+		<linearGradient id="Rectangle_23427_1_" gradientUnits="userSpaceOnUse" x1="-4337.9126" y1="6844.6543" x2="-4337.6675" y2="6844.6543" gradientTransform="matrix(4.000000e-15 63.054 12.37 -1.000000e-15 -84303.0547 273038.25)">
+		<stop  offset="0" style="stop-color:#8C8F8E"/>
+		<stop  offset="0.996" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect id="Rectangle_23427" x="357.59" y="510.03" class="st189" width="15.46" height="78.84"/>
+	
+		<linearGradient id="Path_6171_1_" gradientUnits="userSpaceOnUse" x1="-4239.7456" y1="6591.0049" x2="-4239.4473" y2="6591.2036" gradientTransform="matrix(2.000000e-15 33.156 117.265 -7.000000e-15 -772611.6875 140987.1406)">
+		<stop  offset="0.1355" style="stop-color:#808080"/>
+		<stop  offset="0.4967" style="stop-color:#7F7F7F"/>
+		<stop  offset="0.9678" style="stop-color:#2A2A2B"/>
+	</linearGradient>
+	<path id="Path_6171" class="st190" d="M337.49,419.55v-14.6l-81.8,15.22c-0.03,0-0.05-0.01-0.08-0.01c-4.46,1.02-7.3,3.26-7.3,7.29
+		c0,4.03,3.27,7.3,7.3,7.3c0,0,0,0,0,0v0.05l0.54-0.1c0.57-0.04,1.13-0.15,1.67-0.32L337.49,419.55z"/>
+	
+		<linearGradient id="Rectangle_23428_1_" gradientUnits="userSpaceOnUse" x1="-3580.8965" y1="6616.7109" x2="-3580.8965" y2="6616.8398" gradientTransform="matrix(0 6.896 68.346 -4.000000e-15 -451525.0938 24979.8184)">
+		<stop  offset="0" style="stop-color:#DBDFDF"/>
+		<stop  offset="0.996" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect id="Rectangle_23428" x="375.9" y="281.65" class="st191" width="85.39" height="8.62"/>
+</g>
+</svg>

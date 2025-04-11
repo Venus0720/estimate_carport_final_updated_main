@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 251.61" style="enable-background:new 0 0 300 251.61;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:none;stroke:#686969;}
+	.st2{fill:#474C4E;}
+	.st3{fill:url(#SVGID_2_);}
+	.st4{fill:#B1C3B4;}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{fill:url(#Rectangle_20483_1_);}
+	.st7{opacity:0.28;fill:url(#Path_3650_1_);enable-background:new    ;}
+	.st8{fill:url(#Ellipse_180_1_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st9{fill:url(#Ellipse_187_3_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st10{fill:url(#Ellipse_188_3_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st11{fill:url(#Ellipse_189_3_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st12{fill:url(#Ellipse_187_4_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st13{fill:url(#Ellipse_188_4_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st14{fill:url(#Ellipse_189_4_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st15{fill:url(#Ellipse_187_5_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st16{fill:url(#Ellipse_188_5_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st17{fill:url(#Ellipse_189_5_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st18{fill:url(#Ellipse_180-2_1_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st19{fill:url(#Ellipse_187-2_1_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st20{fill:url(#Ellipse_188-2_1_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st21{fill:url(#Ellipse_189-2_1_);stroke:#686969;stroke-width:0.2;stroke-miterlimit:10;}
+	.st22{fill:#232425;}
+	.st23{opacity:0.58;fill:url(#Path_3780_1_);enable-background:new    ;}
+	.st24{fill:#333436;}
+	.st25{opacity:0.07;fill:#FFFFFF;enable-background:new    ;}
+	.st26{opacity:0.47;fill:url(#Ellipse_261_1_);enable-background:new    ;}
+	.st27{fill:#494848;}
+	.st28{fill:url(#Ellipse_263_1_);stroke:#707171;}
+	.st29{fill:url(#Rectangle_20332_1_);}
+	.st30{fill:url(#Rectangle_20333_1_);}
+	.st31{fill:url(#Rectangle_20334_1_);}
+	.st32{fill:url(#Rectangle_20335_1_);}
+	.st33{opacity:0.53;fill:url(#Ellipse_261-2_1_);enable-background:new    ;}
+	.st34{fill:url(#Ellipse_263-2_1_);stroke:#707171;}
+	.st35{fill:url(#Rectangle_20332-2_1_);}
+	.st36{fill:url(#Rectangle_20333-2_1_);}
+	.st37{fill:url(#Rectangle_20334-2_1_);}
+	.st38{fill:url(#Rectangle_20335-2_1_);}
+	.st39{fill:none;}
+	.st40{fill:none;stroke:#25292C;stroke-miterlimit:10;}
+	.st41{opacity:0.4;fill:url(#Ellipse_265_1_);stroke:#707171;enable-background:new    ;}
+	.st42{fill:#444445;}
+	.st43{fill:url(#Ellipse_267_1_);stroke:#707171;}
+	.st44{fill:url(#Rectangle_20336_1_);}
+	.st45{fill:url(#Rectangle_20337_1_);}
+	.st46{fill:url(#Rectangle_20338_1_);}
+	.st47{fill:url(#Rectangle_20339_1_);}
+	.st48{opacity:0.4;fill:url(#Ellipse_265-2_1_);stroke:#707171;enable-background:new    ;}
+	.st49{fill:url(#Ellipse_267-2_1_);stroke:#707171;}
+	.st50{fill:url(#Rectangle_20336-2_1_);}
+	.st51{fill:url(#Rectangle_20337-2_1_);}
+	.st52{fill:url(#Rectangle_20338-2_1_);}
+	.st53{fill:url(#Rectangle_20339-2_1_);}
+	.st54{fill:#0B0C0D;}
+	.st55{fill:#25292C;}
+	.st56{fill:url(#Rectangle_20348_1_);}
+	.st57{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st58{fill:url(#Rectangle_20349_1_);}
+	.st59{fill:url(#Rectangle_20350_1_);}
+	.st60{fill:url(#Rectangle_20351_1_);}
+	.st61{fill:url(#Path_3789_1_);}
+	.st62{fill:#17181A;}
+	.st63{opacity:0.8;}
+	.st64{fill:#69BC45;}
+	.st65{fill:#4D301A;}
+	.st66{opacity:0.2;}
+	.st67{fill:url(#Path_3819_1_);}
+	.st68{fill:url(#Ellipse_498_1_);}
+	.st69{fill:url(#Ellipse_499_1_);}
+	.st70{opacity:0.17;fill:#FCFDFF;enable-background:new    ;}
+	.st71{fill:#EDECED;}
+	.st72{fill:#EC1E27;}
+	.st73{fill:url(#Ellipse_503_1_);}
+	.st74{fill:#F05C67;}
+	.st75{fill:#3B6CB3;}
+	.st76{fill:url(#Ellipse_506_1_);}
+	.st77{fill:#6B91CA;}
+	.st78{fill:#FCFDFF;}
+</style>
+<g id="Group_4267" transform="translate(-1609 -555)">
+	<g id="Group_4229" transform="translate(1609 555)">
+		<path id="Path_3820" class="st22" d="M35.33,1.57h229.33c38.31-2.66,33.76,15,33.76,33.49v181.51c0,18.49,4.05,37.48-33.76,33.49
+			H35.33c-38.44,2.98-33.76-14.99-33.76-33.49V35.05C-2.6-3.11,16.69,1.57,35.33,1.57z"/>
+		<path id="Path_3779" d="M283.18,3.13c7.54,0.01,13.65,6.07,13.66,13.55v218.25c-0.01,7.48-6.12,13.55-13.66,13.55H16.82
+			c-7.54-0.01-13.65-6.07-13.66-13.55V16.68C3.16,9.2,9.27,3.14,16.82,3.13L283.18,3.13z M283.18,0H16.82
+			C7.54,0.03,0.03,7.48,0,16.68v218.25c0.03,9.2,7.54,16.65,16.82,16.68h266.37c9.28-0.03,16.79-7.48,16.82-16.68V16.68
+			C299.97,7.48,292.46,0.03,283.18,0L283.18,0z"/>
+	</g>
+	<g id="Group_4230" transform="translate(1610.602 557.974)">
+		
+			<linearGradient id="Path_3780_1_" gradientUnits="userSpaceOnUse" x1="-1187.3112" y1="392.2743" x2="-1186.1036" y2="392.2743" gradientTransform="matrix(240.2807 0 0 -240.2807 285290 94378.9922)">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="0.4" style="stop-color:#010101"/>
+			<stop  offset="0.544" style="stop-color:#080909"/>
+			<stop  offset="0.646" style="stop-color:#151515"/>
+			<stop  offset="0.729" style="stop-color:#252524"/>
+			<stop  offset="0.8" style="stop-color:#3B3B3B"/>
+			<stop  offset="0.863" style="stop-color:#575757"/>
+			<stop  offset="0.92" style="stop-color:#777677"/>
+			<stop  offset="0.971" style="stop-color:#99999A"/>
+			<stop  offset="1" style="stop-color:#B3B3B4"/>
+		</linearGradient>
+		<path id="Path_3780" class="st23" d="M18.86-0.98C9.58-0.95,2.07,6.64,2.04,16v220.44c2.66,6.58,11.1,14.78,17.64,8.18
+			L288.42,12.03c6.54-6.6,4.32-12.01-4.92-12.01L18.86-0.98z"/>
+	</g>
+	<g id="Group_4234" transform="translate(1620.35 662.5)">
+		<path id="Path_3781" class="st24" d="M63.72,0.69c-28.02,0-50.73,22.53-50.73,50.32s22.71,50.32,50.73,50.32
+			s50.73-22.53,50.73-50.32l0,0C114.45,23.22,91.74,0.69,63.72,0.69z M63.72,97.57c-25.92,0-46.93-20.84-46.93-46.56
+			S37.8,4.46,63.72,4.46c25.92,0,46.93,20.84,46.93,46.56l0,0C110.65,76.73,89.64,97.57,63.72,97.57z"/>
+		<g id="Group_4233" transform="translate(2.414 2.183)">
+			<ellipse id="Ellipse_260" class="st25" cx="61.62" cy="49.25" rx="40.5" ry="40.17"/>
+			
+				<radialGradient id="Ellipse_261_1_" cx="-1194.7717" cy="276.5313" r="0.5145" gradientTransform="matrix(68.7119 -1.9362 -1.9517 -68.1645 82695.6094 16585.6035)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="0" style="stop-color:#4B4E52"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.544" style="stop-color:#8A8A8A"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_261" class="st26" cx="60.85" cy="49.25" rx="34.59" ry="34.32"/>
+			<ellipse id="Ellipse_262" class="st27" cx="61.17" cy="49.25" rx="18.56" ry="18.41"/>
+			
+				<radialGradient id="Ellipse_263_1_" cx="-1183.1842" cy="261.55" r="1.2591" gradientTransform="matrix(29.226 2.5605 2.5811 -28.9932 33966.2266 10662.001)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.241" style="stop-color:#929497"/>
+				<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_263" class="st28" cx="61.58" cy="49.25" rx="14.76" ry="14.65"/>
+			<g id="Group_4231" transform="translate(44.469)">
+				
+					<linearGradient id="Rectangle_20332_1_" gradientUnits="userSpaceOnUse" x1="-1158.203" y1="257.391" x2="-1158.2534" y2="258.7528" gradientTransform="matrix(5.526 0 0 -27.027 6417.1621 6983.8726)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20332" class="st29" d="M16.83,0.71L16.83,0.71c1.55,0,2.8,1.25,2.8,2.78v21.64c0,1.54-1.26,2.78-2.8,2.78
+					l0,0c-1.55,0-2.8-1.25-2.8-2.78V3.49C14.03,1.95,15.29,0.71,16.83,0.71z"/>
+				
+					<linearGradient id="Rectangle_20333_1_" gradientUnits="userSpaceOnUse" x1="-1158.203" y1="257.3747" x2="-1158.2534" y2="258.7365" gradientTransform="matrix(5.526 0 0 -27.027 6417.1621 7052.4795)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20333" class="st30" d="M16.83,69.76L16.83,69.76c1.55,0,2.8,1.25,2.8,2.78v21.64c0,1.54-1.26,2.78-2.8,2.78
+					l0,0c-1.55,0-2.8-1.25-2.8-2.78V72.54C14.03,71,15.29,69.76,16.83,69.76z"/>
+			</g>
+			<g id="Group_4232" transform="translate(0 45.946)">
+				
+					<linearGradient id="Rectangle_20334_1_" gradientUnits="userSpaceOnUse" x1="-1048.2219" y1="260.4946" x2="-1048.2726" y2="261.8672" gradientTransform="matrix(0 5.526 27.027 -2.000000e-15 -6956.8521 5796.3579)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20334" class="st31" d="M110.41,3.78L110.41,3.78c0,1.54-1.26,2.78-2.8,2.78H85.79
+					c-1.55,0-2.8-1.25-2.8-2.78l0,0c0-1.54,1.25-2.78,2.8-2.78h21.81C109.15,1,110.41,2.25,110.41,3.78z"/>
+				
+					<linearGradient id="Rectangle_20335_1_" gradientUnits="userSpaceOnUse" x1="-1048.2219" y1="260.4578" x2="-1048.2726" y2="261.8304" gradientTransform="matrix(0 5.526 27.027 -2.000000e-15 -7025.459 5796.3579)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20335" class="st32" d="M40.8,3.78L40.8,3.78c0,1.54-1.26,2.78-2.8,2.78H16.19c-1.55,0-2.8-1.25-2.8-2.78
+					l0,0c0-1.54,1.26-2.78,2.8-2.78H38C39.55,1,40.8,2.25,40.8,3.78z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Group_4265" transform="translate(1740.35 662.5)">
+		<path id="Path_3781-2" class="st24" d="M85.46,0.69c-28.02,0-50.73,22.53-50.73,50.32s22.71,50.32,50.73,50.32
+			s50.73-22.53,50.73-50.32l0,0C136.19,23.22,113.48,0.69,85.46,0.69z M85.46,97.57c-25.92,0-46.93-20.84-46.93-46.56
+			S59.54,4.46,85.46,4.46s46.93,20.84,46.93,46.56l0,0C132.39,76.73,111.38,97.57,85.46,97.57z"/>
+		<g id="Group_4233-2" transform="translate(2.414 2.183)">
+			<ellipse id="Ellipse_260-2" class="st25" cx="83.36" cy="49.25" rx="40.5" ry="40.17"/>
+			
+				<radialGradient id="Ellipse_261-2_1_" cx="-1314.4695" cy="276.5227" r="0.5145" gradientTransform="matrix(68.7119 -1.9362 -1.9517 -68.1645 90942.0078 16353.2656)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="0" style="stop-color:#4B4E52"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.544" style="stop-color:#8A8A8A"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_261-2" class="st33" cx="82.59" cy="49.25" rx="34.59" ry="34.32"/>
+			<ellipse id="Ellipse_262-2" class="st27" cx="82.92" cy="49.25" rx="18.56" ry="18.41"/>
+			
+				<radialGradient id="Ellipse_263-2_1_" cx="-1302.4788" cy="261.6123" r="1.2591" gradientTransform="matrix(29.226 2.5605 2.5811 -28.9932 37474.3086 10969.2656)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.241" style="stop-color:#929497"/>
+				<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_263-2" class="st34" cx="83.33" cy="49.25" rx="14.76" ry="14.65"/>
+			<g id="Group_4231-2" transform="translate(44.469)">
+				
+					<linearGradient id="Rectangle_20332-2_1_" gradientUnits="userSpaceOnUse" x1="-1274.2684" y1="257.391" x2="-1274.3187" y2="258.7528" gradientTransform="matrix(5.526 0 0 -27.027 7080.2822 6983.8726)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20332-2" class="st35" d="M38.58,0.71L38.58,0.71c1.55,0,2.8,1.25,2.8,2.78v21.64c0,1.54-1.26,2.78-2.8,2.78
+					l0,0c-1.55,0-2.8-1.25-2.8-2.78V3.49C35.77,1.95,37.03,0.71,38.58,0.71z"/>
+				
+					<linearGradient id="Rectangle_20333-2_1_" gradientUnits="userSpaceOnUse" x1="-1274.2684" y1="257.3747" x2="-1274.3187" y2="258.7365" gradientTransform="matrix(5.526 0 0 -27.027 7080.2822 7052.4795)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20333-2" class="st36" d="M38.58,69.76L38.58,69.76c1.55,0,2.8,1.25,2.8,2.78v21.64
+					c0,1.54-1.26,2.78-2.8,2.78l0,0c-1.55,0-2.8-1.25-2.8-2.78V72.54C35.77,71,37.03,69.76,38.58,69.76z"/>
+			</g>
+			<g id="Group_4232-2" transform="translate(0 45.946)">
+				
+					<linearGradient id="Rectangle_20334-2_1_" gradientUnits="userSpaceOnUse" x1="-1168.2219" y1="261.2991" x2="-1168.2726" y2="262.6717" gradientTransform="matrix(0 5.526 27.027 -2.000000e-15 -6956.8521 6459.478)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20334-2" class="st37" d="M132.15,3.78L132.15,3.78c0,1.54-1.25,2.78-2.8,2.78h-21.81
+					c-1.55,0-2.8-1.25-2.8-2.78l0,0c0-1.54,1.26-2.78,2.8-2.78h21.81C130.9,1,132.15,2.25,132.15,3.78z"/>
+				
+					<linearGradient id="Rectangle_20335-2_1_" gradientUnits="userSpaceOnUse" x1="-1168.2219" y1="261.2623" x2="-1168.2726" y2="262.6348" gradientTransform="matrix(0 5.526 27.027 -2.000000e-15 -7025.459 6459.478)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20335-2" class="st38" d="M62.55,3.78L62.55,3.78c0,1.54-1.26,2.78-2.8,2.78H37.93
+					c-1.55,0-2.8-1.25-2.8-2.78l0,0c0-1.54,1.26-2.78,2.8-2.78h21.81C61.29,1,62.55,2.25,62.55,3.78z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Group_4238" transform="translate(1633.328 565.196)">
+		<path id="Path_3782" class="st24" d="M55.44,0.07c-23.14,0-41.91,18.61-41.91,41.57S32.3,83.21,55.44,83.21
+			S97.35,64.6,97.35,41.64S78.59,0.07,55.44,0.07L55.44,0.07z M55.44,80.1c-21.41,0-38.77-17.22-38.77-38.46S34.03,3.18,55.44,3.18
+			c21.41,0,38.77,17.22,38.77,38.46l0,0C94.21,62.88,76.86,80.1,55.44,80.1z"/>
+		<g id="Group_4237" transform="translate(1.804 1.803)">
+			<g id="Ellipse_264" transform="translate(6.011 6.87)">
+				<ellipse class="st39" cx="47.11" cy="33.31" rx="33.46" ry="33.19"/>
+				<ellipse class="st40" cx="47.11" cy="33.31" rx="32.95" ry="32.69"/>
+			</g>
+			
+				<radialGradient id="Ellipse_265_1_" cx="-1205.8433" cy="371.5856" r="0.5145" gradientTransform="matrix(56.7655 -1.5995 -1.6124 -56.3133 69102.5781 19036.6035)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="0" style="stop-color:#4B4E52"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.544" style="stop-color:#8A8A8A"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_265" class="st41" cx="53.12" cy="40.18" rx="28.58" ry="28.35"/>
+			<ellipse id="Ellipse_266" class="st42" cx="53.12" cy="40.18" rx="15.33" ry="15.21"/>
+			
+				<radialGradient id="Ellipse_267_1_" cx="-1191.8199" cy="353.4683" r="1.2591" gradientTransform="matrix(24.1451 2.1154 2.1324 -23.9528 28076.0332 11027.8984)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.241" style="stop-color:#929497"/>
+				<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_267" class="st43" cx="53.12" cy="40.18" rx="12.2" ry="12.1"/>
+			<g id="Group_4235" transform="translate(37.958)">
+				
+					<linearGradient id="Rectangle_20336_1_" gradientUnits="userSpaceOnUse" x1="-1095.4139" y1="348.5355" x2="-1095.4644" y2="349.8973" gradientTransform="matrix(3.092 0 0 -22.328 3402.7593 7804.2021)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20336" class="st44" d="M15.68,0.08L15.68,0.08c0.87,0,1.57,0.7,1.57,1.56v19.36c0,0.86-0.7,1.56-1.57,1.56
+					l0,0c-0.87,0-1.57-0.7-1.57-1.56V1.63C14.12,0.78,14.82,0.08,15.68,0.08z"/>
+				
+					<linearGradient id="Rectangle_20337_1_" gradientUnits="userSpaceOnUse" x1="-1095.4139" y1="348.5191" x2="-1095.4644" y2="349.881" gradientTransform="matrix(3.092 0 0 -22.328 3402.7593 7860.8813)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20337" class="st45" d="M15.68,57.12L15.68,57.12c0.87,0,1.57,0.7,1.57,1.56v19.36
+					c0,0.86-0.7,1.56-1.57,1.56l0,0c-0.87,0-1.57-0.7-1.57-1.56V58.68C14.12,57.82,14.82,57.12,15.68,57.12z"/>
+			</g>
+			<g id="Group_4236" transform="translate(0 37.958)">
+				
+					<linearGradient id="Rectangle_20338_1_" gradientUnits="userSpaceOnUse" x1="-940.6177" y1="369.9205" x2="-940.6684" y2="371.2931" gradientTransform="matrix(0 3.092 22.328 -1.000000e-15 -8188.0654 2910.3245)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20338" class="st46" d="M93.72,1.88L93.72,1.88c0,0.86-0.7,1.56-1.57,1.56H72.63c-0.87,0-1.57-0.7-1.57-1.56
+					l0,0c0-0.86,0.7-1.56,1.57-1.56h19.52C93.02,0.32,93.72,1.02,93.72,1.88z"/>
+				
+					<linearGradient id="Rectangle_20339_1_" gradientUnits="userSpaceOnUse" x1="-940.6177" y1="369.8837" x2="-940.6684" y2="371.2562" gradientTransform="matrix(0 3.092 22.328 -1.000000e-15 -8244.7441 2910.3245)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20339" class="st47" d="M36.22,1.88L36.22,1.88c0,0.86-0.7,1.56-1.57,1.56H15.13c-0.87,0-1.57-0.7-1.57-1.56
+					l0,0c0-0.86,0.7-1.56,1.57-1.56h19.52C35.51,0.32,36.22,1.02,36.22,1.88z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Group_4266" transform="translate(1749 565.196)">
+		<path id="Path_3782-2" class="st24" d="M77.12,0.07c-23.14,0-41.91,18.61-41.91,41.57s18.76,41.57,41.91,41.57
+			s41.91-18.61,41.91-41.57S100.27,0.07,77.12,0.07L77.12,0.07z M77.12,80.1c-21.41,0-38.77-17.22-38.77-38.46
+			S55.71,3.18,77.12,3.18c21.41,0,38.77,17.22,38.77,38.46l0,0C115.89,62.88,98.54,80.1,77.12,80.1z"/>
+		<g id="Group_4237-2" transform="translate(1.804 1.803)">
+			<g id="Ellipse_264-2" transform="translate(6.011 6.87)">
+				<ellipse class="st39" cx="68.79" cy="33.31" rx="33.46" ry="33.19"/>
+				<ellipse class="st40" cx="68.79" cy="33.31" rx="32.95" ry="32.69"/>
+			</g>
+			
+				<radialGradient id="Ellipse_265-2_1_" cx="-1321.15" cy="371.5752" r="0.5145" gradientTransform="matrix(56.7655 -1.5995 -1.6124 -56.3133 75669.6875 18851.582)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="0" style="stop-color:#4B4E52"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.544" style="stop-color:#8A8A8A"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_265-2" class="st48" cx="74.8" cy="40.18" rx="28.58" ry="28.35"/>
+			<ellipse id="Ellipse_266-2" class="st42" cx="74.8" cy="40.18" rx="15.33" ry="15.21"/>
+			
+				<radialGradient id="Ellipse_267-2_1_" cx="-1306.6392" cy="353.5436" r="1.2591" gradientTransform="matrix(24.1451 2.1154 2.1324 -23.9528 30869.877 11272.5908)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#BCBDBF"/>
+				<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+				<stop  offset="0.241" style="stop-color:#929497"/>
+				<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.723" style="stop-color:#929497"/>
+				<stop  offset="1" style="stop-color:#424143"/>
+			</radialGradient>
+			<ellipse id="Ellipse_267-2" class="st49" cx="74.8" cy="40.18" rx="12.2" ry="12.1"/>
+			<g id="Group_4235-2" transform="translate(37.958)">
+				
+					<linearGradient id="Rectangle_20336-2_1_" gradientUnits="userSpaceOnUse" x1="-1204.0743" y1="348.5355" x2="-1204.1248" y2="349.8973" gradientTransform="matrix(3.092 0 0 -22.328 3760.417 7804.2021)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20336-2" class="st50" d="M37.36,0.08L37.36,0.08c0.87,0,1.57,0.7,1.57,1.56v19.36
+					c0,0.86-0.7,1.56-1.57,1.56l0,0c-0.87,0-1.57-0.7-1.57-1.56V1.63C35.8,0.78,36.5,0.08,37.36,0.08z"/>
+				
+					<linearGradient id="Rectangle_20337-2_1_" gradientUnits="userSpaceOnUse" x1="-1204.0743" y1="348.5191" x2="-1204.1248" y2="349.881" gradientTransform="matrix(3.092 0 0 -22.328 3760.417 7860.8813)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20337-2" class="st51" d="M37.36,57.12L37.36,57.12c0.87,0,1.57,0.7,1.57,1.56v19.36
+					c0,0.86-0.7,1.56-1.57,1.56l0,0c-0.87,0-1.57-0.7-1.57-1.56V58.68C35.8,57.82,36.5,57.12,37.36,57.12z"/>
+			</g>
+			<g id="Group_4236-2" transform="translate(0 37.958)">
+				
+					<linearGradient id="Rectangle_20338-2_1_" gradientUnits="userSpaceOnUse" x1="-1056.2897" y1="370.8915" x2="-1056.3403" y2="372.264" gradientTransform="matrix(0 3.092 22.328 -1.000000e-15 -8188.0654 3267.9824)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20338-2" class="st52" d="M115.4,1.88L115.4,1.88c0,0.86-0.7,1.56-1.57,1.56H94.31
+					c-0.87,0-1.57-0.7-1.57-1.56l0,0c0-0.86,0.7-1.56,1.57-1.56h19.52C114.7,0.32,115.4,1.02,115.4,1.88z"/>
+				
+					<linearGradient id="Rectangle_20339-2_1_" gradientUnits="userSpaceOnUse" x1="-1056.2897" y1="370.8546" x2="-1056.3403" y2="372.2272" gradientTransform="matrix(0 3.092 22.328 -1.000000e-15 -8244.7441 3267.9824)">
+					<stop  offset="0" style="stop-color:#BCBDBF"/>
+					<stop  offset="0.214" style="stop-color:#929497"/>
+					<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.987" style="stop-color:#929497"/>
+				</linearGradient>
+				<path id="Rectangle_20339-2" class="st53" d="M57.9,1.88L57.9,1.88c0,0.86-0.7,1.56-1.57,1.56H36.81c-0.87,0-1.57-0.7-1.57-1.56
+					l0,0c0-0.86,0.7-1.56,1.57-1.56h19.52C57.19,0.32,57.9,1.02,57.9,1.88z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Group_4248" transform="translate(1644.428 766.454)">
+		<g id="Group_4247" transform="translate(2.331 4.373)">
+			<ellipse id="Ellipse_276" class="st54" cx="24.95" cy="11.99" rx="10.76" ry="10.68"/>
+			<ellipse id="Ellipse_277" class="st55" cx="24.04" cy="11.99" rx="10.3" ry="10.22"/>
+		</g>
+		
+			<linearGradient id="Rectangle_20348_1_" gradientUnits="userSpaceOnUse" x1="-1193.4707" y1="53.7518" x2="-1192.4562" y2="53.7518" gradientTransform="matrix(16.252 0 0 -6.32 19412.8086 356.0721)">
+			<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+			<stop  offset="0.214" style="stop-color:#929497"/>
+			<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.723" style="stop-color:#929497"/>
+			<stop  offset="1" style="stop-color:#424143"/>
+		</linearGradient>
+		<path id="Rectangle_20348" class="st56" d="M19.73,13.18H29.8c1.77,0,3.21,1.42,3.21,3.18l0,0c0,1.76-1.44,3.18-3.21,3.18H19.73
+			c-1.77,0-3.21-1.42-3.21-3.18l0,0C16.52,14.6,17.96,13.18,19.73,13.18z"/>
+		<path id="Path_3785" class="st57" d="M13.77,15.45c-0.38-3.71,0.97-7.39,3.66-10c0,0,4.23-4.03,9.56-4.17c0,0,1.92-0.19,1.56,1.87
+			c0,0-0.14,1.75-3,1c0,0-9.02,0.8-11.2,9.79C14.36,13.95,14.46,16.59,13.77,15.45z"/>
+	</g>
+	<g id="Group_4250" transform="translate(1678.286 766.454)">
+		<g id="Group_4249" transform="translate(2.331 4.373)">
+			<ellipse id="Ellipse_278" class="st54" cx="25.45" cy="11.99" rx="10.76" ry="10.68"/>
+			<ellipse id="Ellipse_279" class="st55" cx="24.53" cy="11.99" rx="10.3" ry="10.22"/>
+		</g>
+		
+			<linearGradient id="Rectangle_20349_1_" gradientUnits="userSpaceOnUse" x1="-1198.5626" y1="154.0175" x2="-1197.5526" y2="154.0175" gradientTransform="matrix(10.9235 12.0335 4.6795 -4.2479 12393.376 15085.5684)">
+			<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+			<stop  offset="0.214" style="stop-color:#929497"/>
+			<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.723" style="stop-color:#929497"/>
+			<stop  offset="1" style="stop-color:#424143"/>
+		</linearGradient>
+		<path id="Rectangle_20349" class="st58" d="M26.08,8.7l6.77,7.4c1.19,1.3,1.09,3.31-0.22,4.49l0,0c-1.31,1.18-3.34,1.08-4.53-0.22
+			l-6.77-7.4c-1.19-1.3-1.09-3.31,0.22-4.49l0,0C22.86,7.31,24.89,7.4,26.08,8.7z"/>
+		<path id="Path_3786" class="st57" d="M14.26,15.45c-0.38-3.71,0.97-7.39,3.66-10c0,0,4.23-4.03,9.56-4.17c0,0,1.92-0.19,1.56,1.87
+			c0,0-0.14,1.75-3,1c0,0-9.02,0.8-11.2,9.79C14.85,13.95,14.95,16.59,14.26,15.45z"/>
+	</g>
+	<g id="Group_4252" transform="translate(1768.574 766.454)">
+		<g id="Group_4251" transform="translate(2.331 4.373)">
+			<ellipse id="Ellipse_280" class="st54" cx="46.76" cy="11.99" rx="10.76" ry="10.68"/>
+			<ellipse id="Ellipse_281" class="st55" cx="45.84" cy="11.99" rx="10.3" ry="10.22"/>
+		</g>
+		
+			<linearGradient id="Rectangle_20350_1_" gradientUnits="userSpaceOnUse" x1="-1316.2751" y1="53.7518" x2="-1315.2606" y2="53.7518" gradientTransform="matrix(16.252 0 0 -6.32 21430.4297 356.0721)">
+			<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+			<stop  offset="0.214" style="stop-color:#929497"/>
+			<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.723" style="stop-color:#929497"/>
+			<stop  offset="1" style="stop-color:#424143"/>
+		</linearGradient>
+		<path id="Rectangle_20350" class="st59" d="M41.53,13.18h10.08c1.77,0,3.21,1.42,3.21,3.18l0,0c0,1.76-1.44,3.18-3.21,3.18H41.53
+			c-1.77,0-3.21-1.42-3.21-3.18l0,0C38.33,14.6,39.76,13.18,41.53,13.18z"/>
+		<path id="Path_3787" class="st57" d="M35.57,15.45c-0.38-3.71,0.97-7.39,3.66-10c0,0,4.23-4.03,9.56-4.17c0,0,1.92-0.19,1.56,1.87
+			c0,0-0.14,1.75-3,1c0,0-9.02,0.8-11.2,9.79C36.16,13.95,36.26,16.59,35.57,15.45z"/>
+	</g>
+	<g id="Group_4254" transform="translate(1797.466 766.454)">
+		<g id="Group_4253" transform="translate(2.331 4.373)">
+			<ellipse id="Ellipse_282" class="st54" cx="47.18" cy="11.99" rx="10.76" ry="10.68"/>
+			<ellipse id="Ellipse_283" class="st55" cx="46.26" cy="11.99" rx="10.3" ry="10.22"/>
+		</g>
+		
+			<linearGradient id="Rectangle_20351_1_" gradientUnits="userSpaceOnUse" x1="-1345.1412" y1="53.7518" x2="-1344.1267" y2="53.7518" gradientTransform="matrix(16.252 0 0 -6.32 21899.9824 356.0721)">
+			<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+			<stop  offset="0.214" style="stop-color:#929497"/>
+			<stop  offset="0.544" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.723" style="stop-color:#929497"/>
+			<stop  offset="1" style="stop-color:#424143"/>
+		</linearGradient>
+		<path id="Rectangle_20351" class="st60" d="M41.95,13.18h10.08c1.77,0,3.21,1.42,3.21,3.18l0,0c0,1.76-1.44,3.18-3.21,3.18H41.95
+			c-1.77,0-3.21-1.42-3.21-3.18l0,0C38.75,14.6,40.18,13.18,41.95,13.18z"/>
+		<path id="Path_3788" class="st57" d="M35.99,15.45c-0.38-3.71,0.97-7.39,3.66-10c0,0,4.23-4.03,9.56-4.17c0,0,1.92-0.19,1.56,1.87
+			c0,0-0.14,1.75-3,1c0,0-9.02,0.8-11.2,9.79C36.58,13.95,36.68,16.59,35.99,15.45z"/>
+	</g>
+	<g id="Group_4264" transform="translate(1714.531 777.232)">
+		<g id="Group_4262">
+			<g id="Group_4255">
+				
+					<linearGradient id="Path_3789_1_" gradientUnits="userSpaceOnUse" x1="-1281.153" y1="122.6178" x2="-1281.0049" y2="120.8456" gradientTransform="matrix(42.423 0 0 -15.313 54393.5078 1868.2214)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="0.155" style="stop-color:#030303"/>
+					<stop  offset="0.305" style="stop-color:#0F0F10"/>
+					<stop  offset="0.452" style="stop-color:#212221"/>
+					<stop  offset="0.597" style="stop-color:#3E3E3E"/>
+					<stop  offset="0.742" style="stop-color:#616262"/>
+					<stop  offset="0.884" style="stop-color:#8A8A8A"/>
+					<stop  offset="1" style="stop-color:#B3B3B4"/>
+				</linearGradient>
+				<path id="Path_3789" class="st61" d="M68.19,13.33H24.28c-1.82,0-3.31-1.44-3.36-3.25l-0.21-11.7c-0.03-1.81,1.41-3.3,3.23-3.33
+					c0.02,0,0.05,0,0.07,0h44.43c1.82,0,3.3,1.45,3.3,3.26c0,0.02,0,0.05,0,0.07l-0.21,11.7C71.5,11.89,70.01,13.33,68.19,13.33z
+					 M24.02-2.96c-0.71-0.01-1.3,0.57-1.3,1.27c0,0.01,0,0.03,0,0.04l0.21,11.7c0.02,0.73,0.62,1.3,1.36,1.3h43.91
+					c0.73,0,1.34-0.57,1.36-1.3l0.21-11.7c0.02-0.71-0.55-1.3-1.26-1.31c-0.01,0-0.03,0-0.04,0H24.02z"/>
+			</g>
+			<path id="Path_3790" class="st62" d="M68.19,12.34H24.28c-1.28,0-2.32-1.01-2.36-2.27l-0.21-11.7c-0.03-1.26,0.98-2.3,2.25-2.32
+				c0.02,0,0.04,0,0.06,0h44.43c1.27-0.01,2.3,1.01,2.3,2.26c0,0.02,0,0.04,0,0.06l-0.21,11.7C70.51,11.33,69.47,12.34,68.19,12.34z
+				"/>
+			<g id="Group_4261" transform="translate(4.707 2.55)" class="st63">
+				<g id="Group_4256">
+					<path id="Path_3791" class="st64" d="M22.05-4.45h5.9l-1.11,1.11h-3.61L22.05-4.45z"/>
+					<path id="Path_3792" class="st64" d="M28.07,7.78h-5.85l1.1-1.09h3.58L28.07,7.78z"/>
+					<path id="Path_3793" class="st65" d="M21.67-4.05l0.07,4.77l0.57,0.56l0.51-0.51l-0.05-3.73L21.67-4.05z"/>
+					<path id="Path_3794" class="st65" d="M28.48,7.29l-0.04-4.73L27.86,2l-0.51,0.51l0.04,3.7L28.48,7.29z"/>
+					<path id="Path_3795" class="st64" d="M28.39-4.05l0.04,4.77l-0.56,0.56l-0.52-0.51l-0.04-3.73L28.39-4.05z"/>
+					<path id="Path_3796" class="st64" d="M21.86,7.39l-0.07-4.73l0.56-0.56l0.52,0.51l0.05,3.7L21.86,7.39z"/>
+					<path id="Path_3797" class="st64" d="M23.23,1.12h3.72l0.54,0.53L26.93,2.2h-3.7l-0.51-0.49L23.23,1.12z"/>
+				</g>
+				<g id="Group_4257" transform="translate(7.138)">
+					<path id="Path_3798" class="st64" d="M23.5-4.45h5.9l-1.12,1.11h-3.61L23.5-4.45z"/>
+					<path id="Path_3799" class="st65" d="M29.44,7.78H23.6l1.1-1.09h3.58L29.44,7.78z"/>
+					<path id="Path_3800" class="st65" d="M23.12-4.05l0.04,4.77l0.57,0.56l0.51-0.51l-0.03-3.73L23.12-4.05z"/>
+					<path id="Path_3801" class="st64" d="M29.85,7.29l-0.02-4.73L29.27,2l-0.51,0.51l0.02,3.7L29.85,7.29z"/>
+					<path id="Path_3802" class="st64" d="M29.84-4.05l0.02,4.77l-0.56,0.56l-0.52-0.51l-0.02-3.73L29.84-4.05z"/>
+					<path id="Path_3803" class="st65" d="M23.24,7.39L23.2,2.66l0.56-0.56l0.52,0.51l0.03,3.7L23.24,7.39z"/>
+					<path id="Path_3804" class="st65" d="M24.65,1.12h3.72l0.53,0.53L28.35,2.2h-3.7l-0.5-0.49L24.65,1.12z"/>
+				</g>
+				<g id="Group_4258" transform="translate(20.303)">
+					<path id="Path_3805" class="st65" d="M26.2-4.45h5.9l-1.13,1.11h-3.61L26.2-4.45z"/>
+					<path id="Path_3806" class="st65" d="M32,7.78h-5.85l1.12-1.09h3.58L32,7.78z"/>
+					<path id="Path_3807" class="st65" d="M25.81-4.05L25.8,0.72l0.56,0.56l0.52-0.51l0.02-3.73L25.81-4.05z"/>
+					<path id="Path_3808" class="st64" d="M32.42,7.29l0.04-4.73L31.9,2l-0.52,0.51l-0.03,3.7L32.42,7.29z"/>
+					<path id="Path_3809" class="st64" d="M32.53-4.05l-0.04,4.77l-0.57,0.56l-0.51-0.51l0.03-3.73L32.53-4.05z"/>
+					<path id="Path_3810" class="st65" d="M25.8,7.39l0.02-4.73l0.57-0.56l0.51,0.51l-0.02,3.7L25.8,7.39z"/>
+					<path id="Path_3811" class="st65" d="M27.28,1.12h3.72l0.53,0.53L30.97,2.2h-3.7l-0.5-0.49L27.28,1.12z"/>
+				</g>
+				<g id="Group_4259" transform="translate(27.383)">
+					<path id="Path_3812" class="st64" d="M27.71-4.45h5.9l-1.14,1.11h-3.61L27.71-4.45z"/>
+					<path id="Path_3813" class="st64" d="M33.43,7.78h-5.85l1.12-1.09h3.58L33.43,7.78z"/>
+					<path id="Path_3814" class="st64" d="M27.32-4.05l-0.05,4.77l0.56,0.56l0.52-0.51l0.04-3.73L27.32-4.05z"/>
+					<path id="Path_3815" class="st64" d="M33.86,7.29l0.07-4.73L33.37,2l-0.52,0.51l-0.05,3.7L33.86,7.29z"/>
+					<path id="Path_3816" class="st64" d="M34.04-4.05l-0.07,4.77L33.4,1.28l-0.51-0.51l0.05-3.73L34.04-4.05z"/>
+					<path id="Path_3817" class="st64" d="M27.23,7.39l0.04-4.73l0.57-0.56l0.51,0.51l-0.04,3.7L27.23,7.39z"/>
+					<path id="Path_3818" class="st64" d="M28.76,1.12h3.72l0.53,0.53L32.44,2.2h-3.7l-0.5-0.49L28.76,1.12z"/>
+				</g>
+				<g id="Group_4260" transform="translate(15.613 1.549)">
+					<rect id="Rectangle_20352" x="24.84" y="-4.15" class="st64" width="1.54" height="1.52"/>
+					<rect id="Rectangle_20353" x="24.85" y="2.46" class="st64" width="1.53" height="1.51"/>
+				</g>
+			</g>
+		</g>
+		<g id="Group_4263" transform="translate(0.831 0.83)" class="st66">
+			
+				<linearGradient id="Path_3819_1_" gradientUnits="userSpaceOnUse" x1="-1274.2632" y1="115.042" x2="-1273.6129" y2="113.8528" gradientTransform="matrix(24.9594 0 0 -13.652 31830.4219 1562.8225)">
+				<stop  offset="0" style="stop-color:#000000"/>
+				<stop  offset="0.155" style="stop-color:#030303"/>
+				<stop  offset="0.305" style="stop-color:#0F0F10"/>
+				<stop  offset="0.452" style="stop-color:#212221"/>
+				<stop  offset="0.597" style="stop-color:#3E3E3E"/>
+				<stop  offset="0.742" style="stop-color:#616262"/>
+				<stop  offset="0.884" style="stop-color:#8A8A8A"/>
+				<stop  offset="1" style="stop-color:#B3B3B4"/>
+			</linearGradient>
+			<path id="Path_3819" class="st67" d="M23.19-4.78c-1.27,0-2.3,1.01-2.3,2.27c0,0.02,0,0.04,0,0.05l0.21,11.7
+				c0.03,1.27,1.08,2.28,2.36,2.27h11.04L50.92-4.78L23.19-4.78z"/>
+		</g>
+	</g>
+</g>
+</svg>

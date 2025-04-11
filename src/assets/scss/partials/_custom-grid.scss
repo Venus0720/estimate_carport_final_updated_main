@@ -1,0 +1,113 @@
+.prow {
+    display: flex;
+    flex-wrap: wrap;
+    &>* {
+        flex-shrink: 0;
+        width: 100%;
+        max-width: 100%;
+        padding-right: 15px;
+    }
+    .roof-pitch-container {
+      display: flex;
+      flex-wrap: wrap;
+      .roof-pitch {
+        margin-right: 35px;
+        display: flex;
+        align-items: center;
+        @include responsive(sm) {
+          margin: 0px 28px 10px 0px;
+        }
+        @include responsive(md) {
+          margin-top: 10px;
+        }
+        label {
+          font-size: 16px;
+          @include responsive(md) {
+            font-size: 14px;
+          }
+        }
+      }
+    }
+
+    .pcol{
+      @media (min-width: 576px) {
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        max-width: 100%;
+      }
+      position: relative;
+      width: 100%;
+      padding-right: 15px;
+    }
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.6;  
+}
+
+.gap-7 {
+  gap: 7px;
+  margin: 35px 0px;
+}
+// Define mixin for generating responsive column classes
+@mixin generate-responsive-columns($from, $to) {
+  @for $i from $from through $to {
+    .pcol-#{$i} {
+      flex: 0 0 auto;
+      width: percentage($i / 12);
+    }
+  }
+  
+  // Responsive column classes
+  @media (max-width: 575px) {
+    @for $i from $from through $to {
+      .pcol-xs-#{$i} {
+        flex: 0 0 auto;
+      width: percentage($i / 12);
+      }
+    }
+  }
+
+  @media (min-width: 576px) {
+    @for $i from $from through $to {
+      .pcol-sm-#{$i} {
+        flex: 0 0 auto;
+      width: percentage($i / 12);
+      }
+    }
+  }
+
+  @media (min-width: 768px) {
+    @for $i from $from through $to {
+      .pcol-md-#{$i} {
+        flex: 0 0 auto;
+      width: percentage($i / 12);
+      }
+    }
+  }
+
+  @media (min-width: 992px) {
+    @for $i from $from through $to {
+      .pcol-lg-#{$i} {
+        flex: 0 0 auto;
+      width: percentage($i / 12);
+      }
+    }
+  }
+
+  @media (min-width: 1200px) {
+    @for $i from $from through $to {
+      .pcol-xl-#{$i} {
+        flex: 0 0 auto;
+      width: percentage($i / 12);
+      }
+    }
+  }
+}
+
+// Usage of the mixin for col-1 to col-12 with responsive classes
+@include generate-responsive-columns(1, 12);

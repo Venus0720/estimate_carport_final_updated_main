@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="New document 1"
+    viewBox="0 0 200 200"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-4"
+      pagecolor="#ffffff"
+      inkscape:window-height="968"
+      inkscape:window-maximized="1"
+      inkscape:zoom="2.8284271"
+      inkscape:window-x="-4"
+      showgrid="true"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="95.567251"
+      inkscape:cy="90.644412"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+    >
+    <inkscape:grid
+        id="grid2816"
+        enabled="true"
+        visible="true"
+        snapvisiblegridlinesonly="true"
+        type="xygrid"
+        empspacing="5"
+    />
+  </sodipodi:namedview
+  >
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(0 -852.36)"
+    >
+    <path
+        id="path2835"
+        style="fill-rule:evenodd;fill:#4d4d4d"
+        d="m30 1022.4-10 10h160l-10-10h-140z"
+    />
+    <path
+        id="path2833"
+        style="fill-rule:evenodd;fill:#808080"
+        d="m180 20l-10 10v140l10 10v-160z"
+        transform="translate(0 852.36)"
+    />
+    <path
+        id="path2831"
+        style="fill:#999999;fill-rule:evenodd"
+        d="m20 872.36v160l10-10v-140l-10-10z"
+    />
+    <path
+        id="rect2818"
+        style="fill-rule:evenodd;fill:#b3b3b3"
+        d="m20 20l10 10h140l10-10h-160z"
+        transform="translate(0 852.36)"
+    />
+    <rect
+        id="rect2845"
+        style="fill-rule:evenodd;fill:#1a1a1a"
+        height="140"
+        width="140"
+        y="882.36"
+        x="30"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Beveled Square</dc:title
+        >
+        <dc:date
+          >2010-08-11T13:36:50</dc:date
+        >
+        <dc:description
+          >Beveled square</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/79453/beveled-square-by-jhnri4</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >jhnri4</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >bevel</rdf:li
+            >
+            <rdf:li
+              >grey</rdf:li
+            >
+            <rdf:li
+              >inkscape</rdf:li
+            >
+            <rdf:li
+              >rectangle</rdf:li
+            >
+            <rdf:li
+              >square</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

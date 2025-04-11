@@ -1,0 +1,27 @@
+@mixin responsive($breakpoint) {
+    @if($breakpoint == xl)  {
+      @media only screen and (min-width: 1550px){
+        @content;
+      }
+    }
+    @if($breakpoint == lg)  {
+      @media only screen and (min-width: 1280px) and (max-width: 1549px) {
+        @content;
+      }
+    }
+    @if($breakpoint == md)  {
+      @media only screen and (min-width: 993px) and (max-width: 1279px) {
+        @content;
+      }
+    }
+    @if($breakpoint == smd)  {
+      @media only screen and (min-width: 668px) and (max-width: 992px) {
+        @content;
+      }
+    }
+    @if($breakpoint == sm)  {
+      @media only screen and (max-width: 992px) { 
+        @content 
+      }
+    }
+};

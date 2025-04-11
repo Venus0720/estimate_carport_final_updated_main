@@ -1,0 +1,367 @@
+.tabcontainer {
+  .mb-built-size-container {
+    @include responsive(sm) {
+      margin-top: 30px;
+    }
+    @include responsive(smd) {
+      margin-top: 30px;
+    }
+  }
+  .mb-lean-container {
+    @include responsive(sm) {
+      margin-top: 30px;
+    }
+    @include responsive(smd) {
+      margin-top: 30px;
+    }
+  }
+  .mb-door-windows-container {
+    @include responsive(sm) {
+      margin-top: 30px;
+    }
+    @include responsive(smd) {
+      margin-top: 30px;
+    }
+  }
+  .mb-options-container {
+    @include responsive(sm) {
+      margin-top: 30px !important;
+    }
+    @include responsive(smd) {
+      margin-top: 30px !important;
+    }
+  }
+
+
+  .tab-cta {
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: #fff;
+    @include responsive(sm) {
+      z-index: 0;
+    }
+    ul {
+      @include responsive(sm) {
+        padding: 0px;
+        border: 1px solid #D9D9D9;
+      }
+      padding: 0px 20px;
+      width: 100%;
+      display: flex;
+      margin: 0;
+      a {
+        font-family: $head_font;
+        font-size: 20px;
+        color: rgba(3,20,31,0.6);
+        font-weight: 600;
+        width: auto;
+        background-color: white;
+        white-space: nowrap;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        cursor: pointer;
+        margin-top: 0px;
+        padding-bottom: 0px;
+        padding: 0px 24px;
+        @include responsive(lg) {
+          padding: 0px 15px 0px 0px;
+          width: 100%;
+        }
+        @include responsive(md) {
+          font-size: 16px;
+          width: auto;
+          padding: 0px 12px;
+        }
+        @include responsive(sm) {
+          font-weight: 500;
+          margin-top: 0px;
+          font-size: 14px;
+          padding: 12px 10px;
+          height: 38px;
+          background-color: #f3f3f3;
+          width: 100%;
+        }
+        @include responsive(lg) {
+          margin-left: 0px !important;
+        }
+        @include responsive(xl) {
+          margin-left: 0px !important;
+        }
+        &.active {
+          background-color: white;
+          color: $theme-color;
+          font-family: $head_font;
+          cursor: default;
+          opacity: 1!important;
+          position: relative;
+          @include responsive(sm) {
+            background-color: $theme-color;
+            color: white;
+          }
+          .tab-arrow {
+            width: 20px;
+            height: 20px;
+            border-right: 1px solid $theme-color;
+            border-bottom: 1px solid $theme-color;
+            background-color: white;
+            transform: rotate(45deg);
+            position: absolute;
+            bottom: -45px;
+            left: calc(50% - 8px);
+            @include responsive(sm) {
+              background-color: $theme-color;
+              bottom: -7px;
+              width: 15px;
+              height: 15px;
+            }
+            @include responsive(md) {
+              bottom: -34px;
+            }
+          }
+        }
+
+        & + a {
+          @include responsive(sm) {
+            margin-left: 0px;
+            border-left: 1px solid #567B8A30;
+          }
+        }
+      }
+    }
+  }
+
+  .tab-content {
+    padding: 15px 0px 40px 0px;
+    border-radius: 5px;
+    &.without-tab-content {
+      border: none;
+    }
+
+    @include responsive(sm) {
+      padding: 0px
+    }
+    h2 {
+      @include responsive(sm) {
+        font-size: 16px;
+      }
+    }
+    h3 {
+      @include responsive(sm) {
+        font-size: 14px;
+      }
+    }
+    .tab-data {
+      @include responsive(sm) {
+        .sides-pcol-3 {
+          .pcol-3 {
+            width: auto;
+          }
+        }
+      }
+      display: none;
+      .tab-data-padding {
+        .lean-side-ends {
+          @include responsive(md) {
+            margin-top: 10px;
+            margin-bottom: 5px;
+          }
+        }
+        @include responsive(sm) {
+          padding: 0px 18px;
+          .mobile-wainscot-title {
+            margin-top: 15px;
+          }
+        }
+        .horizontal-mr {
+          margin-right: 25px;
+          @include responsive(md) {
+            margin-right: 0px;
+          }
+        }
+        .prow {
+          .color-box-wrap {
+            width: 31%;
+            padding-right: 0px;
+            .wainscot {
+              font-size: 16px;
+              font-weight: 600;
+            }
+          }
+          .customize-building-note {
+            font-weight: 600;
+            font-size: 18px;
+            width: auto;
+            padding-right: 5px;
+          }
+          .built-size-or {
+            color: #666666;
+            font-size: 18px;
+            font-weight: 400;
+            border-left: 1px solid #666666;
+            border-right: 1px solid #666666;
+            width: auto;
+            padding: 0px 5px;
+            margin-right: 5px;
+          }
+          .start-from-scratch {
+            font-weight: 600;
+            font-size: 18px;
+            color: #1FAC48;
+            width: auto;
+            padding-right: 0px;
+            cursor: pointer;
+            border-bottom: 2px solid #1FAC48;
+            // text-decoration: underline;
+            // text-underline-offset: 5px;
+            // text-decoration-thickness: 2px;
+            img {
+              margin-left: 5px;
+            }
+          }
+        }
+      }
+      .option-tab {
+        h3 {
+          font-size: 18px !important;
+          @include responsive(md) {
+            font-size: 16px !important;
+          }
+          @include responsive(sm) {
+            font-size: 14px !important;
+          }
+        }
+      }
+      &.active {
+        display: inherit;
+        .tab-data-container {
+          @include responsive(sm) {
+            .tab-data-padding {
+              .prow {
+                .pcol-3 {
+                  width: 50%;
+                }
+              }
+            }
+          }
+          .leanto-appearance-container {
+            .pcol-3 {
+              @include responsive(sm) {
+                width: 30%;
+              }
+            }
+          }
+          section {
+            .prow {
+              .site-information {
+                .pcol-4 {
+                  width: 145px !important;
+                  @include responsive(sm) {
+                    width: 115px !important;
+                  }
+                }
+                .pcol-2 {
+                  width: 80px !important;
+                  @include responsive(sm) {
+                    width: 70px !important;
+                  }
+                }
+              }
+            }
+          }
+          .side-ends {
+            @include responsive(sm) {
+              padding-right: 0px;
+            }
+          }
+          .roof-pitch-container {
+            @include responsive(sm) {
+              padding-right: 0px;
+              .roof-pitch {
+                width: auto;              }
+            }
+          }
+          .option-container {
+            padding: 10px 5px 10px 15px;
+            width: auto;
+            background-color: #f3f3f3;
+            border-radius: 5px;
+            position: relative;
+            display: flex;
+            .pcol-2 {
+              padding-right: 15px;
+            }
+            .option-arrow {
+              position: absolute;
+              width: 15px;
+              height: 15px;
+              transform: rotate(45deg);
+              background-color: #f3f3f3;
+            }
+          }
+        }
+        .prow {
+          .side-close {
+            @include responsive(sm) {
+              padding: 0px;
+            }
+          }
+          .side-partial {
+            padding: 0px;
+          }
+          .pcol-4 {
+            @include responsive(sm) {
+              width: 105px;
+              padding: 0px;
+            }
+          }
+        }
+      }
+      h3 {
+        margin-top: 15px;
+        margin-bottom: 6px;
+      }
+      section {
+        .prow {
+          .pcol-3 {
+            @include responsive(sm) {
+              width: 50%;
+              padding: 0px;
+              padding-right: 10px;
+            }
+          }
+          .pcol-4 {
+            margin-right: 10px;
+            @include responsive(md) {
+              margin-right: 0px;
+            }
+            &:last-child {
+              margin-right: 0px !important;
+            }
+          }
+        }
+        & + section {
+          margin-top: 25px;
+          padding-top: 15px;
+        }
+      }
+    }
+    .read-more {
+      cursor: pointer;
+      color: $theme-color;
+    }
+  }
+}
+.site-information {
+  h5 {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 16px !important;
+    @include responsive(sm) {
+      font-size: 14px !important;
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.001" height="12" viewBox="0 0 12.001 12">
+  <g id="up-arrrow" transform="translate(0 12) rotate(-90)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="12" height="12" transform="translate(0 0.001)" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(2.249 0)">
+      <path id="Path_1" data-name="Path 1" d="M5.241,6,.277,10.54a.8.8,0,0,0,0,1.211,1.009,1.009,0,0,0,1.328,0L7.229,6.61a.8.8,0,0,0,.027-1.183L1.609.25A1.006,1.006,0,0,0,.281.25a.8.8,0,0,0,0,1.211Z" fill="#ff9f00"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,779 @@
+.checkout-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  @include responsive(sm) {
+    margin-top: 0px;
+  }
+  .check-header {
+    @include responsive(sm) {
+      box-shadow: none;
+      margin-top: 25px;
+      height: 100%;
+    }
+    @include responsive(md) {
+      height: 90px;
+    }
+    position: relative;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.25);
+
+    .check-arrow {
+      @include responsive(sm) {
+        display: none;
+      }
+      position: absolute;
+      bottom: -10px;
+      width: 20px;
+      height: 20px;
+      rotate: 45deg;
+      background-color: white;
+    }
+    .check-container {
+      position: relative;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      .main-header {
+        .deskTop-mobile-title {
+          display: flex;
+          margin-bottom: 7px;
+          @include responsive(sm) {
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 5px;
+          }
+          @include responsive(smd) {
+            flex-direction: row;
+          }
+          @include responsive(md) {
+            align-items: center;
+            margin-bottom: 5px;
+          }
+          h2 {
+            @include responsive(md) {
+              font-size: 16px;
+            }
+            @include responsive(smd) {
+              font-size: 16px !important;
+            }
+          }
+        }
+        .check-out-note {
+          text-align: center;
+          font-size: 20px;
+          @include responsive(sm) {
+            font-size: 14px;
+          }
+          @include responsive(smd) {
+            font-size: 12px;
+          }
+          @include responsive(md) {
+            font-size: 12px;
+          }
+          .color-font {
+            font-size: 20px;
+            color: $theme-color;
+            @include responsive(md) {
+              font-size: 12px;
+            }
+          }
+        }
+        @include responsive(sm) {
+          height: 100%;
+          width: 100%;
+          padding: 0px 20px;
+          h2 {
+            font-size: 22px !important;
+          }
+          .normal-font {
+            @include responsive(sm) {
+              display: none;
+              text-align: center;
+            }
+            font-size: 14px !important;
+          }
+          .color-font {
+            font-size: 14px !important;
+          }
+        }
+        width: 70%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100px;
+        h2 {
+          font-family: $head_font;
+          color: $head_color;
+          font-size: 40px;
+        }
+        .normal-font {
+          font-size: 18px;
+          font-family: $head_font;
+          color: $head_color;
+          @include responsive(smd) {
+            font-size: 12px;
+          }
+          .color-font {
+            font-size: 18px;
+            color: $theme-color;
+          }
+        }
+      }
+      .go-back {
+        .md-show {
+          span {
+            font-size: 10px;
+            font-weight: 500;
+            font-family: $sub_font;
+          }
+        }
+        @include responsive(sm) {
+          width: 56px;
+          height: 28px;
+          top: -15px;
+          left: 17px;
+          img {
+            width: 100%;
+            height: 100%;
+          }
+        }
+        @include responsive(md) {
+          left: 30px;
+        }
+        position: absolute;
+        cursor: pointer;
+        left: 70px;
+        bottom: 20px;
+        top: calc(50% - 14px);
+        height: 28px;
+      }
+    }
+  }
+  .content-wrapper {
+    width: 100%;
+    position: relative;
+    .main-content {
+      @include responsive(sm) {
+        display: block;
+      }
+      width: 100%;
+      height: 100%;
+      padding-top: 20px;
+      display: flex;
+      position: relative;
+      margin: 0 auto;
+      .left-side-content {
+        .mb-product-image {
+          display: none;
+          @include responsive(sm) {
+            display: block !important;
+            width: 100%;
+            margin-bottom: 15px;
+            img {
+              width: 100%;
+              border-radius: 6px;
+            }
+          }
+          @include responsive(smd) {
+            width: 242px;
+            margin-bottom: 0px;
+          }
+        }
+        .building-property-container {
+          @include responsive(smd) {
+            width: calc(100% - 270px);
+          }
+        }
+        @include responsive(sm) {
+          width: 100%;
+          margin-bottom: 0px;
+          padding: 21px;
+          background-color: #F3F3F3;
+          margin-bottom: 0px;
+        }
+        @include responsive(smd) {
+          display: flex;
+          justify-content: space-between;
+        }
+        @include responsive(md) {
+          padding: 15px 30px 100px 30px;
+        }
+        position: relative;
+        padding: 15px 70px 100px 70px;
+        width: 50%;
+        margin-bottom: 100px;
+        .building-editor {
+          width: 100%;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          @include responsive(sm) {
+            margin-bottom: 5px;
+          }
+          h2 {
+            @include responsive(sm) {
+              font-size: 14px;
+            }
+            @include responsive(md) {
+              font-size: 14px;
+            }
+            font-family: $head_font;
+            color: $head_color;
+            font-size: 22px;
+            font-weight: 600;
+          }
+          button {
+            @include responsive(sm) {
+              display: none;
+            }
+            @include responsive(smd) {
+              display: flex;
+              font-size: 12px;
+              height: 28px;
+              width: 92px;
+            }
+            @include responsive(md) {
+              font-size: 12px;
+            }
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 120px;
+            padding: 5px;
+            height: 34px;
+            color: $sub_color;
+            padding: 5px;
+            font-size: 16px;
+            font-weight: 500;
+            border: 1px solid #B3B3B3;
+            background: transparent;
+            border-radius: 20px;
+            img {
+              margin-right: 3px;
+              @include responsive(smd) {
+                width: 10px;
+              }
+            }
+          }
+        }
+        .garage-name {
+          h2 {
+            @include responsive(sm) {
+              font-size: 18px;
+            }
+            @include responsive(smd) {
+              font-size: 16px;
+            }
+            @include responsive(md) {
+              font-size: 16px;
+            }
+            font-weight: 600;
+            font-size: 32px;
+          }
+        }
+        .show-sum {
+          @include responsive(sm) {
+            margin-top: 8px;
+          }
+          display: flex;
+          width: 100%;
+          justify-content: space-between;
+          margin-top: 10px;
+          .show-price {
+            .full-order-summary {
+              display: none;
+              @include responsive(sm) {
+                display: block !important;
+                cursor: pointer;
+                margin-top: 10px;
+                span {
+                  color: $theme-color;
+                  font-size: 14px;
+                  font-weight: 500;
+                  img {
+                    margin-left: 5px;
+                  }
+                }
+              }
+            }
+            @include responsive(sm) {
+              width: 100%;
+            }
+            width: 49%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            hr {
+              @include responsive(sm) {
+                display: none;
+              }
+              height: 1px;
+              border-width: 0;
+              background-color: #D9D9D9;
+              padding-right: 5px;
+              width: 100%;
+              padding-right: 16px;
+            }
+            .down-payment {
+              @include responsive(sm) {
+                flex-direction: row;
+                align-items: center;
+                margin-bottom: 3px;
+              }
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+              .payment-note {
+                margin-bottom: 3px;
+                .down-payment-note {
+                  @include responsive(sm) {
+                    display: none;
+                  }
+                }
+                span {
+                  font-size: 18px;
+                  color: #787474;
+                  font-weight: 500;
+                  @include responsive(sm) {
+                    font-size: 14px;
+                  }
+                  @include responsive(md) {
+                    font-size: 14px;
+                  }
+                }
+              }
+              .downpayment-price {
+                span {
+                  @include responsive(sm) {
+                    font-size: 22px;
+                  }
+                  @include responsive (md) {
+                    font-size: 22px;
+                    font-weight: 700;
+                  }
+                  font-size: 50px;
+                  font-family: $sub_font;
+                  font-weight: 800;
+                  color: $theme-color;
+                }
+              }
+            }
+            .total-amount {
+              @include responsive(sm) {
+                flex-direction: row;
+              }
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+              .total-note {
+                .mb-total-amount {
+                  display: none;
+                  @include responsive(sm) {
+                    display: block !important;
+                  }
+                }
+                .mb-total-price {
+                  display: block;
+                  @include responsive(sm) {
+                    display: none;
+                  }
+                  @include responsive(md) {
+                    font-size: 14px;
+                  }
+                }
+                span {
+                  font-size: 18px;
+                  color: rgba(0, 0, 0, 0.6);
+                  font-weight: 500;
+                  @include responsive(sm) {
+                    font-size: 14px;
+                  }
+                }
+              }
+              .total-price {
+                h2 {
+                  @include responsive(sm) {
+                   font-size: 14px; 
+                   color: #787474
+                  }
+                  @include responsive(md) {
+                    font-size: 18px;
+                  }
+                  font-weight: 800;
+                  font-size: 30px;
+                }
+              }
+            }
+          }
+          .show-images {
+            @include responsive(sm) {
+              display: none;
+            }
+            width: 49%;
+            height: 100%;
+            img {
+              width: 100%;
+              height: 100%;
+              border-radius: 5px;
+            }
+          }
+        }
+        .product-summary-category {
+          @include responsive(sm) {
+            display: none;
+          }
+          @include responsive(md) {
+            margin-top: 36px;
+          }
+          margin-top: 50px;
+        }
+      }
+      .right-side-content {
+        @include responsive(sm) {
+          width: 100%;
+          padding: 20px 21px;
+          margin-bottom: 0px;
+        }
+        @include responsive(md) {
+          padding: 15px 30px;
+        }
+        padding: 15px 70px;
+        width: 50%;
+        position: relative;
+        margin-bottom: 100px;
+        .place-order-container {
+          @include responsive(sm) {
+            flex-direction: column;
+          }
+          @include responsive(md) {
+            flex-direction: column;
+          }
+          .place-order-note {
+            font-size: 14px;
+            margin-bottom: 10px;
+            @include responsive(sm) {
+              margin-bottom: 24px;
+            }
+            @include responsive(md) {
+              margin-bottom: 24px;
+            }
+          }
+          display: flex;
+          justify-content: space-between;
+        }
+        .place-button {
+          @include responsive(sm) {
+            height: 50px;
+            font-size: 18px !important;
+          }
+          @include responsive(smd) {
+            font-size: 16px !important;
+            height: 44px !important;
+          }
+          @include responsive(md) {
+            font-size: 16px !important;
+            font-weight: bold;
+            height: 44px !important;
+          }
+          display: flex !important;
+          white-space: nowrap;
+          padding: 15px 20px !important;
+          font-size: 20px !important;
+        }
+        .secure-system {
+          @include responsive(sm) {
+            padding: 10px 20px;
+            height: 100%;
+          }
+          @include responsive(md) {
+            height: 93px;
+          }
+          background-color: #F0F9EC;
+          width: 100%;
+          font-family: $head_font;
+          color: $head_color;
+          height: 126px;
+          padding: 17px 21px 14px 21px;
+          border: 1px solid #58BB36;
+          border-radius: 3px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          .secure-font-bold { 
+            @include responsive(sm) {
+              font-size: 14px;
+            }
+            @include responsive(md) {
+              font-size: 14px;
+            }
+            font-size: 22px;
+            font-weight: 800;
+            margin-bottom: 3px;
+          }
+          .secure-font-normal {
+            font-size: 20px;
+            @include responsive(sm) {
+              font-size: 14px;
+            }
+            @include responsive(md) {
+              font-size: 14px;
+            }
+          }
+        }
+        .contact-delivery-address {
+          width: 100%;
+          margin-top: 20px;
+          margin-bottom: 3px;
+          h2 {
+            font-family: $head_font;
+            color: $head_color;
+            font-weight: 800;
+            font-size: 28px;
+            @include responsive(sm) {
+              font-size: 18px;
+            }
+            @include responsive(md) {
+              font-size: 18px;
+              font-weight: 700;
+            }
+          }
+        }
+        .check-out-form {
+          @include responsive(sm) {
+            padding: 0px;
+            .prow {
+              .pcol-12 {
+                padding: 0px;
+              }
+              .pcol-6 {
+                padding: 0px;
+              }
+            }
+            .pcol-6 {
+              width: 100%;
+              margin-bottom: 18px;
+              h4 {
+                font-size: 14px;
+                span {
+                  color: $sub_color !important;
+                }
+              }
+            }
+          }
+          .pcol-6 {
+            @include responsive(md) {
+              width: 100%;
+            }
+            @include responsive(smd) {
+              width: 50%;
+              padding-right: 20px !important;
+            }
+          }
+          .pcol-12 {
+            .phone-note {
+              @include responsive(sm) {
+                font-size: 14px;
+              }
+              @include responsive(md) {
+                font-size: 14px;
+              }
+            }
+            h4 {
+              font-size: 18px;
+              @include responsive(sm) {
+                font-size: 14px;
+              }
+              @include responsive(md) {
+                font-size: 14px;
+              }
+            }
+            p {
+              font-size: 18px;
+              font-weight: 400;
+            }
+            .order-notes {
+              font-size: 16px;
+              @include responsive(sm) {
+                font-size: 14px;
+              }
+              @include responsive(md) {
+                font-size: 14px;
+              }
+            }
+          }
+          aside {
+            margin-bottom: 20px;
+            h4 {
+              font-size: 16px;
+              margin-bottom: 5px;
+              @include responsive(md) {
+                font-size: 14px;
+              }
+            }
+            .credit-card {
+              font-size: 20px;
+              font-weight: 400;
+              @include responsive(md) {
+                font-size: 16px;
+              }
+              @include responsive(sm) {
+                font-size: 16px;
+              }
+            }
+            .heading1 {
+              font-size: 28px;
+              @include responsive(md) {
+                font-size: 18px;
+              }
+            }
+            @include responsive(sm) {
+              .heading1 {
+                font-size: 18px;
+              }
+              .input-box {
+                label {
+                  font-size: 14px;
+                }
+              }
+            }
+            .building-address {
+              font-size: 16px;
+              @include responsive(md) {
+                font-size: 14px;
+              }
+            }
+          }
+          .term-container {
+            display: flex;
+            label {
+              margin-top: -1px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.grand-total-sec {
+  border-top: 1px solid #98dfff;
+  margin-top: 25px;
+  padding:0 15px;
+  .g-total-row {
+    display: flex;
+    margin-top: 10px;
+    justify-content: flex-end;
+    .g-total-sec {
+      font-size: 18px;
+      @extend .font-3;
+      font-weight: 400;
+      color: #062C44;
+      @include responsive(sm) {
+        font-size: 16px;
+      }
+      color: #000;
+      & + .g-total-sec { 
+           margin-left: 20px;
+        width: 111px;
+        text-align: left;
+      
+      }
+      &.dipost-total-title {
+        color: $greencolor;
+      }
+      &.depositotal-total-value{font-weight: 700;color: $greencolor;}
+     &.balance-total-value,&.total-total-value {font-weight: 700;}
+    }
+  }
+}
+
+.for-product-summary-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+  padding: 0 15px;
+  .for-product-summary-price {
+    @extend .font-3;
+    color: #000;
+    span {
+      font-size: 24px;
+      &:nth-child(1) {
+        font-weight: 400;
+      }
+      &:nth-child(2) {
+        font-weight: 700;
+        margin-left: 30px;
+      }
+    }
+  }
+}
+
+
+.cc-images {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin-top: 30px;
+  @include responsive(sm) {
+    margin-top: 14px;
+  }
+  @include responsive(md) {
+    margin-top: 14px;
+  }
+  img {
+    & + img {margin-left: 13px;}
+      border: 1px solid #B3B3B3;
+      width: 85px;
+      height: 67px;
+      border-radius: 5px;
+      padding: 8px 10px;
+      @include responsive(sm) {
+        width: 75px;
+        height: 59px;
+      }
+      @include responsive(sm) {
+        width: 75px;
+        height: 59px;
+      }
+  }
+}
+
+
+.cc-input {
+  position: relative;
+  display: flex;
+  background: #fff;
+  border: 1px solid #B3B3B3;
+  border-radius: 4px;
+  width: 100%;
+  padding: 1px 10px;
+  input {
+      padding: 10px;
+      border: none;
+      width: 100%;
+      outline: none;
+      font-size: 20px;
+      @include responsive(md) {
+        font-size: 16px ;
+      }
+      @include responsive(sm) {
+        font-size: 16px ;
+      }
+      &.ccnumber {width: 50%;margin-right: 15%;}
+      &.ccexpiry {width: 20%;text-align: center;}
+      &.ccvv {width: 15%;text-align: center;}
+  }
+
+  img {width: 30px;margin-right: 15px;}
+}

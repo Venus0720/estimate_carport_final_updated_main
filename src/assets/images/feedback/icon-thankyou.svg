@@ -1,0 +1,15 @@
+<svg id="icon-thankyou" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <circle id="Shape" cx="32" cy="32" r="32" fill="#f7f7f7"/>
+  <g id="Shape-2" data-name="Shape" transform="translate(11 14)">
+    <path id="Rectangle-5" d="M3,1H38a2,2,0,0,1,2,2V27a2,2,0,0,1-2,2H3a2,2,0,0,1-2-2V3A2,2,0,0,1,3,1Z" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_37431" data-name="Path 37431" d="M19.021,16.322,1.812,3.609A2,2,0,0,1,3,0H38.608A2,2,0,0,1,39.8,3.609L22.587,16.322A3,3,0,0,1,19.021,16.322ZM38.608,2H3L20.21,14.714a1,1,0,0,0,1.188,0Z" fill="#333"/>
+    <path id="Rectangle-5-Copy-6" d="M3,0H38a3,3,0,0,1,3,3V27a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V3A3,3,0,0,1,3,0ZM3,2A1,1,0,0,0,2,3V27a1,1,0,0,0,1,1H38a1,1,0,0,0,1-1V3a1,1,0,0,0-1-1Z" fill="#333"/>
+    <path id="Rectangle" d="M5,20.5h6a1,1,0,0,0,0-2H5a1,1,0,0,0,0,2Z" fill="#99a2af"/>
+    <path id="Rectangle-Copy-8" d="M5,24.5H18a1,1,0,0,0,0-2H5a1,1,0,0,0,0,2Z" fill="#e64a31"/>
+  </g>
+  <g id="Shape-3" data-name="Shape" transform="translate(55 51) rotate(180)">
+    <path id="Oval-176-Copy-3" d="M21,11.5A9.5,9.5,0,1,1,11.5,2,9.5,9.5,0,0,1,21,11.5Z" fill="#fff" fill-rule="evenodd"/>
+    <path id="Path_37432" data-name="Path 37432" d="M22,11A11,11,0,1,1,11,0,11,11,0,0,1,22,11Zm-2.1,0A8.9,8.9,0,1,0,11,19.9,8.9,8.9,0,0,0,19.9,11Z" fill="#333"/>
+    <path id="Path-3" d="M13.168,12.555a1,1,0,0,0,1.664-1.109l-2-3a1,1,0,0,0-1.387-.277l-6,4a1,1,0,1,0,1.109,1.664l5.168-3.445Z" fill="#333"/>
+  </g>
+</svg>

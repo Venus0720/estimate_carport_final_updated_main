@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 250.91" style="enable-background:new 0 0 300 250.91;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Rectangle_22764_1_);}
+	.st1{fill:#4590C6;}
+	.st2{fill:#0F0F10;}
+	.st3{fill:#333333;}
+	.st4{fill:none;}
+	.st5{fill:url(#Rectangle_22748_1_);}
+	.st6{fill:#4E4E4E;}
+	.st7{fill:#838383;}
+</style>
+<linearGradient id="Rectangle_22764_1_" gradientUnits="userSpaceOnUse" x1="-1215.3199" y1="-1150.7422" x2="-1215.3199" y2="-1149.632" gradientTransform="matrix(100.034 0 0 184.455 121830.4609 212306.2813)">
+	<stop  offset="0" style="stop-color:#FCB63D"/>
+	<stop  offset="0.482" style="stop-color:#F7E91B"/>
+	<stop  offset="1" style="stop-color:#FFC411"/>
+</linearGradient>
+<rect id="Rectangle_22764" x="214.3" y="46.13" class="st0" width="85.7" height="204.79"/>
+<rect id="Rectangle_22742" x="0" y="0" class="st1" width="214.3" height="250.91"/>
+<rect id="Rectangle_22743" x="8.5" y="11.03" class="st2" width="197.3" height="228.85"/>
+<rect id="Rectangle_22744" x="8.44" y="70.31" class="st3" width="196.34" height="16.82"/>
+<rect id="Rectangle_22745" x="8.44" y="108.88" class="st3" width="196.34" height="21.24"/>
+<rect id="Rectangle_22746" x="8.44" y="151.31" class="st3" width="196.34" height="16.82"/>
+<rect id="Rectangle_22747" x="8.44" y="189.88" class="st3" width="196.34" height="21.24"/>
+<rect class="st4" width="214.3" height="250.91"/>
+<g id="Group_5059">
+	
+		<linearGradient id="Rectangle_22748_1_" gradientUnits="userSpaceOnUse" x1="-1965.37" y1="-699.1335" x2="-1964.5973" y2="-699.1335" gradientTransform="matrix(265.142 0 0 57.137 521108.5625 39978.1094)">
+		<stop  offset="0" style="stop-color:#036DB6"/>
+		<stop  offset="1" style="stop-color:#005994"/>
+	</linearGradient>
+	<rect id="Rectangle_22748" class="st5" width="214.3" height="63.43"/>
+	<path id="Path_5936" class="st1" d="M0,52.36h214.3v15.95H0V52.36z"/>
+</g>
+<rect id="Rectangle_22751" x="8.44" y="62.21" class="st6" width="7.07" height="177.65"/>
+<rect id="Rectangle_22752" x="45.46" y="62.21" class="st6" width="7.07" height="177.65"/>
+<rect id="Rectangle_22753" x="83.26" y="62.21" class="st6" width="7.07" height="177.65"/>
+<rect id="Rectangle_22754" x="121.05" y="62.21" class="st6" width="7.07" height="177.65"/>
+<rect id="Rectangle_22755" x="158.85" y="62.21" class="st6" width="7.07" height="177.65"/>
+<rect id="Rectangle_22756" x="199" y="62.21" class="st6" width="7.07" height="177.65"/>
+<rect id="Rectangle_22757" x="8.44" y="62.21" class="st6" width="196.34" height="9.17"/>
+<rect id="Rectangle_22758" x="8.44" y="108.28" class="st6" width="196.34" height="9.17"/>
+<rect id="Rectangle_22759" x="8.44" y="148.85" class="st6" width="196.34" height="9.17"/>
+<rect id="Rectangle_22760" x="8.44" y="189.41" class="st6" width="196.34" height="9.17"/>
+<rect id="Rectangle_22761" x="8.44" y="230.68" class="st6" width="196.34" height="9.17"/>
+<g id="Group_5064" transform="translate(772.043 456.308)">
+	<g id="Group_5063">
+		<g id="Group_5061">
+			<rect id="Rectangle_22762" x="-751.13" y="-437.14" class="st7" width="101.39" height="9.25"/>
+		</g>
+		<g id="Group_5062" transform="translate(0 8.499)">
+			<rect id="Rectangle_22763" x="-751.13" y="-436.2" class="st3" width="101.39" height="2.65"/>
+		</g>
+	</g>
+</g>
+<path id="Path_5935" class="st2" d="M20.91,31.03l2.19,3.28h97.67l1.52-3.28H20.91z"/>
+</svg>

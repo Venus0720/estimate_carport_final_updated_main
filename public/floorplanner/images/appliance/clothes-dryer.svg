@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 334.62" style="enable-background:new 0 0 300 334.62;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#D2D2D2;}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:none;}
+	.st4{fill:none;stroke:#959595;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:url(#Ellipse_433_2_);}
+	.st6{opacity:0.5;fill:#414141;enable-background:new    ;}
+	.st7{fill:none;stroke:#C6C6C6;stroke-linecap:round;stroke-linejoin:round;}
+	.st8{opacity:0.24;fill:#5E5F5E;enable-background:new    ;}
+	.st9{fill:url(#Ellipse_440_2_);stroke:#FFFFFF;stroke-width:0.5;}
+	.st10{opacity:0.3;fill:#5E5F5E;enable-background:new    ;}
+	.st11{opacity:0.2;fill:#5E5F5E;enable-background:new    ;}
+	.st12{opacity:0.4;fill:#5E5F5E;enable-background:new    ;}
+	.st13{opacity:0.5;fill:url(#Rectangle_24511_2_);enable-background:new    ;}
+	.st14{fill:url(#Ellipse_433-2_2_);}
+	.st15{fill:url(#Ellipse_433-3_2_);}
+	.st16{fill:none;stroke:#A2A1A1;stroke-width:2;}
+</style>
+<g id="Group_5775_1_" transform="translate(-302.577 -274.023)">
+	<g id="Rectangle_24505_1_">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-811.8813" y1="-870.8743" x2="-810.9169" y2="-870.8743" gradientTransform="matrix(309.741 0 0 150.312 251776.2813 131382.25)">
+			<stop  offset="0" style="stop-color:#EAEAE9"/>
+			<stop  offset="0.498" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#E3E2E2"/>
+		</linearGradient>
+		<path class="st0" d="M306.7,608.12c-1.86,0-3.37-1.53-3.37-3.42V354.12c0-1.88,1.51-3.42,3.37-3.42h292.01
+			c1.86,0,3.37,1.53,3.37,3.42V604.7c0,1.88-1.51,3.42-3.37,3.42H306.7z"/>
+		<path class="st1" d="M598.71,351.2c1.58,0,2.87,1.31,2.87,2.92V604.7c0,1.61-1.29,2.92-2.87,2.92H306.7
+			c-1.58,0-2.87-1.31-2.87-2.92V354.12c0-1.61,1.29-2.92,2.87-2.92L598.71,351.2 M598.71,350.2H306.7c-2.14,0-3.87,1.75-3.87,3.92
+			V604.7c0,2.16,1.73,3.92,3.87,3.92h292.01c2.14,0,3.87-1.75,3.87-3.92V354.12C602.58,351.96,600.85,350.2,598.71,350.2
+			L598.71,350.2z"/>
+	</g>
+	<g id="Rectangle_24506_1_">
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-811.3995" y1="-870.9001" x2="-811.3995" y2="-868.77" gradientTransform="matrix(309.741 0 0 79.55 251776.2813 69510.3281)">
+			<stop  offset="0" style="stop-color:#EAEAE9"/>
+			<stop  offset="0.206" style="stop-color:#F3F3F3"/>
+			<stop  offset="0.406" style="stop-color:#F3F4F5"/>
+			<stop  offset="1" style="stop-color:#959595"/>
+		</linearGradient>
+		<path class="st2" d="M303.08,361.55v-83.61c0-1.88,1.51-3.42,3.37-3.42h292.01c1.93,0,3.62,1.6,3.62,3.42l-0.04,83.61H303.08z"/>
+		<path class="st1" d="M598.46,275.02c1.66,0,3.12,1.36,3.12,2.92l-0.04,83.11H303.58v-83.11c0-1.61,1.29-2.92,2.87-2.92H598.46
+			 M598.46,274.02H306.45c-2.14,0-3.87,1.75-3.87,3.92v84.11h299.75l0.21-0.09l0.04-84.02
+			C602.57,275.78,600.59,274.02,598.46,274.02L598.46,274.02z"/>
+	</g>
+	<g id="Rectangle_24507_1_" transform="translate(324.727 286.523)">
+		<path class="st3" d="M2.67-0.75h250.11c2.14,0,3.87,1.75,3.87,3.92v45.96c0,2.16-1.73,3.92-3.87,3.92H2.67
+			c-2.14,0-3.87-1.75-3.87-3.92V3.17C-1.2,1.01,0.53-0.75,2.67-0.75z"/>
+		<path class="st4" d="M2.67,0.23h250.11c1.6,0,2.9,1.32,2.9,2.94v55.96c0,1.62-1.3,2.94-2.9,2.94H2.67c-1.6,0-2.9-1.32-2.9-2.94
+			V3.17C-0.23,1.55,1.07,0.23,2.67,0.23z"/>
+	</g>
+	<g id="Group_5776_1_" transform="translate(341.329 298.524)">
+		
+			<radialGradient id="Ellipse_433_2_" cx="-1471.4703" cy="-869.6651" r="0.7456" gradientTransform="matrix(31.7794 3.5672 -3.522 32.1876 43713.3242 33266.1406)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#BCBDBF"/>
+			<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+			<stop  offset="0.073" style="stop-color:#E1E1E1"/>
+			<stop  offset="0.468" style="stop-color:#B8B8B8"/>
+			<stop  offset="0.51" style="stop-color:#929497"/>
+			<stop  offset="0.71" style="stop-color:#AAABAD"/>
+			<stop  offset="0.761" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.848" style="stop-color:#929497"/>
+			<stop  offset="1" style="stop-color:#424143"/>
+		</radialGradient>
+		<ellipse id="Ellipse_433_1_" class="st5" cx="13.74" cy="24.67" rx="15.47" ry="15.67"/>
+		<path id="Path_7070_1_" class="st6" d="M18.1,13.39l2.29,1.18L8.69,35.81L6.4,34.63L18.1,13.39z"/>
+		<ellipse id="Ellipse_438_1_" class="st7" cx="13.74" cy="24.67" rx="15.47" ry="15.67"/>
+	</g>
+	<ellipse id="Ellipse_439_1_" class="st8" cx="554.21" cy="308.61" rx="12.61" ry="4.46"/>
+	
+		<linearGradient id="Ellipse_440_2_" gradientUnits="userSpaceOnUse" x1="-784.4645" y1="-846.2034" x2="-783.4415" y2="-846.2034" gradientTransform="matrix(26.066 0 0 9.1 20989.4512 8007.541)">
+		<stop  offset="0" style="stop-color:#E1E2E5"/>
+		<stop  offset="0.354" style="stop-color:#E1E2E5"/>
+		<stop  offset="1" style="stop-color:#929497"/>
+	</linearGradient>
+	<ellipse id="Ellipse_440_1_" class="st9" cx="554.21" cy="307.09" rx="12.61" ry="4.46"/>
+	<g id="Group_5774_1_" transform="translate(324.726 369.097)">
+		<path id="Path_7066_1_" class="st10" d="M-1.2,8.08l12.15,9.24H244.2l12.45-9.24C256.65,8.08-1.2,8.17-1.2,8.08z"/>
+		<path id="Path_7067_1_" class="st11" d="M-1.2,222.66l12.15-9.24H244.2l12.45,9.24C256.65,222.66-1.2,222.58-1.2,222.66z"/>
+		<path id="Path_7068_1_" class="st12" d="M244.21,213.41V16.91l12.45-9.24v214.94L244.21,213.41z"/>
+		<path id="Path_7069_1_" class="st12" d="M11.25,213.41V16.91L-1.2,7.67V222.6L11.25,213.41z"/>
+		
+			<linearGradient id="Rectangle_24511_2_" gradientUnits="userSpaceOnUse" x1="-1460.4526" y1="-871.1939" x2="-1460.4287" y2="-869.3547" gradientTransform="matrix(266.443 0 0 116.181 389251.9063 101224.9453)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.716" style="stop-color:#EAEAE9"/>
+			<stop  offset="1" style="stop-color:#CECECD"/>
+		</linearGradient>
+		<rect id="Rectangle_24511_1_" x="-1.2" y="8.09" class="st13" width="257.85" height="214.99"/>
+	</g>
+	<g id="Group_5778_1_" transform="translate(560.01 312.523)">
+		
+			<radialGradient id="Ellipse_433-2_2_" cx="-1889.6696" cy="-867.2114" r="0.745" gradientTransform="matrix(17.8746 2.0048 -1.9809 18.0895 32059.0313 19493.2383)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#BCBDBF"/>
+			<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+			<stop  offset="0.073" style="stop-color:#E1E1E1"/>
+			<stop  offset="0.468" style="stop-color:#B8B8B8"/>
+			<stop  offset="0.51" style="stop-color:#929497"/>
+			<stop  offset="0.71" style="stop-color:#AAABAD"/>
+			<stop  offset="0.761" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.848" style="stop-color:#929497"/>
+			<stop  offset="1" style="stop-color:#424143"/>
+		</radialGradient>
+		<ellipse id="Ellipse_433-2_1_" class="st14" cx="-0.09" cy="17.52" rx="8.7" ry="8.81"/>
+		<path id="Path_7070-2_1_" class="st6" d="M2.37,11.18l1.29,0.67l-6.58,11.93l-1.29-0.67L2.37,11.18z"/>
+		<ellipse id="Ellipse_438-2_1_" class="st7" cx="-0.09" cy="17.52" rx="8.7" ry="8.81"/>
+	</g>
+	<g id="Group_5779_1_" transform="translate(528.036 312.523)">
+		
+			<radialGradient id="Ellipse_433-3_2_" cx="-1825.6646" cy="-867.2177" r="0.745" gradientTransform="matrix(17.8746 2.0048 -1.9809 18.0895 30915.9883 19365.0371)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#BCBDBF"/>
+			<stop  offset="1.000000e-03" style="stop-color:#BCBDBF"/>
+			<stop  offset="0.073" style="stop-color:#E1E1E1"/>
+			<stop  offset="0.468" style="stop-color:#B8B8B8"/>
+			<stop  offset="0.51" style="stop-color:#929497"/>
+			<stop  offset="0.71" style="stop-color:#AAABAD"/>
+			<stop  offset="0.761" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.848" style="stop-color:#929497"/>
+			<stop  offset="1" style="stop-color:#424143"/>
+		</radialGradient>
+		<ellipse id="Ellipse_433-3_1_" class="st15" cx="0.95" cy="17.52" rx="8.7" ry="8.81"/>
+		<path id="Path_7070-3_1_" class="st6" d="M3.4,11.18l1.29,0.67l-6.58,11.93l-1.29-0.67L3.4,11.18z"/>
+		<ellipse id="Ellipse_438-3_1_" class="st7" cx="0.95" cy="17.52" rx="8.7" ry="8.81"/>
+	</g>
+	<path id="Path_7071_1_" class="st16" d="M302.58,362.18h300"/>
+</g>
+</svg>

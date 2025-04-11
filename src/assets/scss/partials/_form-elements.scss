@@ -1,0 +1,226 @@
+// custom checkbox radio
+input[type='checkbox'],
+input[type='radio'] {
+@extend .round-circle;
+ 
+  &:checked {
+    @extend .round-checked;
+  }
+}
+
+.input-common {
+  position: relative;
+  display: flex;
+  background: #fff;
+  border: 1px solid #B3B3B3;
+  border-radius: 4px;
+  width: 100%;
+}
+
+
+// custom radio
+input[type='checkbox'] {
+  border-radius: 2px;
+}
+.input-radio,.input-checkbox  { 
+  display: flex;
+  align-items: center;
+  .input-box {
+    .side-ends {
+      border-radius: 50% !important;
+      font-size: 0px !important;
+    }
+    white-space: pre;
+    display: inline-flex;
+    align-items: center;
+    @extend .element-common-font;
+    .double-leg {
+      font-size: 12px;
+      white-space: normal;
+    } 
+  }
+}
+
+// custom input type text
+
+.input-text {
+  input ,textarea {
+    @extend .input-common;
+    padding: 10px;
+    outline: none;
+    &:focus {
+      border-color: #666;
+    }
+  }
+  textarea  {
+    resize: none
+  }
+
+}
+
+// custom select
+/* Custom Select wrapper */
+.select {
+  @extend .input-common;
+  overflow: hidden;
+  // Select style
+  select {
+    flex: 1;
+    padding:7px 20px 7px 15px;
+    cursor: pointer;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: pre;
+  }
+  // Arrow style
+  &::after {
+    content: url(/src/assets/images/arrow/select-arrow-follow.svg);
+    position: absolute;
+    right: 10px;
+    top: 45%;
+    transition: 0.25s all ease;
+    pointer-events: none;
+    transform: translateY(-50%);
+    @extend .icon-font;
+    font-size: 12px;
+  }
+
+  select {
+    appearance: none;
+    border: 0;
+    outline: 0;
+    background: none;
+    color: inherit;
+    box-shadow: none;
+  font-family: $font-1;
+
+    @extend .element-common-font;
+    &::-ms-expand {
+      display: none;
+    }
+  }
+  select::-ms-expand {
+    display: none;
+  }
+}
+
+// custom range slider
+
+// for chrome
+
+input[type='range'] {
+  -webkit-appearance: none;
+  background-color: transparent;
+  &::-webkit-slider-runnable-track {
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+  }
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #000;
+    margin-top: -6px;
+  }
+  &:focus {
+    outline: none;
+  }
+
+  &:focus::-webkit-slider-runnable-track {
+    background: #ccc;
+  }
+}
+
+// for mozila
+
+input[type='range']::-moz-range-track {
+  height: 5px;
+  background: #ddd;
+  border: none;
+  border-radius: 3px;
+}
+
+input[type='range']::-moz-range-thumb {
+  border: none;
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  background: #000;
+}
+
+/*hide the outline behind the border*/
+input[type='range']:-moz-focusring {
+  outline: 1px solid white;
+  outline-offset: -1px;
+}
+
+input[type='range']:focus::-moz-range-track {
+  background: #ccc;
+}
+
+// toggle switch
+
+.custom-toggle {
+	cursor: pointer;
+	display: inline-block;
+  @extend .element-common-font;
+}
+.custom-toggle-switch {
+	display: inline-block;
+	background: #EAEAEA;
+	border-radius: 16px;
+	width: 45px;
+	height: 20px;
+	position: relative;
+	vertical-align: middle;
+	transition:  0.25s ease all;
+  box-shadow: 0px 0px 2px 0px #0000007d;
+	&:before,
+	&:after {
+		content: "";
+	}
+	&:before {
+		display: block;
+		background-color: #474747;
+		border-radius: 50%;
+		box-shadow: 0 0 0 1px rgba(0,0,0,0.25);
+		width: 12px;
+		height: 12px;
+		position: absolute;
+		top: 4px;
+		left: 4px;
+		transition: left 0.25s;
+	}
+	
+	.custom-toggle-checkbox:checked + & {
+		&:before {
+			left: 30px;
+      background-color: $greencolor;
+		}
+	}
+}
+.custom-toggle-checkbox {
+  display:none;
+}
+.custom-toggle-label {
+	position: relative;
+	top: 2px;
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

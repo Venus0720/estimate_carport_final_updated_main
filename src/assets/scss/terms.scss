@@ -1,0 +1,260 @@
+
+
+.for-terms-andc-detail {
+    max-width: 1920px;
+    padding: 40px 120px;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    font-family: $sub_font;
+    line-height: 1.5;
+    // @include (sm) { 
+    //   padding: 10px;
+    //  }  
+    @include responsive(sm) {
+        padding: 10px;
+    }
+    .icon-arrow{
+        color: #666;
+        font-size: 12px;
+        margin-right: 8px;
+    }
+     p {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 40px;
+        font-weight: 500;
+        font-family: $sub_font;
+        margin-top: 0px;
+    }
+
+    .following-terms {
+      padding-left: 40px;
+      h6 {
+        font-size: 14px;
+        color: #666;
+        margin-bottom: 10px;
+        font-family: $sub_font;
+        text-transform: capitalize;
+        font-weight: 700;
+        }
+    }
+    h5 {
+          font-size: 22px;
+          color: #111;
+          margin-bottom: 0;
+          font-family: $head_font;
+          text-transform: uppercase;
+          font-weight: 700;
+          margin-top: 1.5rem !important;
+          margin-bottom: 1.5rem !important;
+    }
+    .img-div{
+        width: 100%;
+        .img-container{
+          display: flex;
+          flex-wrap: wrap;
+          margin-left: 15px;
+          margin-right: 15px;
+          justify-content: space-evenly;
+          @include responsive(sm) {
+            flex-direction: column;
+          }
+          aside{
+            margin-bottom: 1.5rem !important;
+            width: 33.33%;
+            overflow: hidden;
+            @include responsive(sm) {
+              width: 100%;
+            }
+            img{
+              width: 280px;
+              height: auto;
+              margin-bottom: 16px;
+            }
+          }
+          label{
+            margin-top: 1rem !important;
+            color: #666;
+          }
+        }
+    }
+    .modal-title{
+        display: inline-flex;
+        position: relative;
+        padding-bottom: 10px;
+        &:before {
+          content: "";
+          height: 6px;
+          width: 40px;
+          display: initial;
+          background: #de3539;
+          border-radius: 2px;
+          position: absolute;
+          bottom: 0;
+          left: 50%;
+          transform: translateX(-50%);
+        }
+        &.modal-title-left {
+          &:before{
+            left: 0;
+            transform: none;
+          }
+        }
+    }
+    .termsc-cta {
+        margin-top: 50px;
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center;
+    }
+     .btn {
+        width: 100%;
+        max-width: 430px;
+        text-transform: uppercase;
+        align-items: center;
+        font-weight: 600;
+        justify-content: center;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -webkit-user-select: none;
+        user-select: none;
+        border: 1px solid transparent;
+        border-radius: 10px;
+        padding: 0.75rem 1.25rem;
+        background-color: #666;
+        color: #fff;
+    }
+
+    .btn-clrd {
+      width: 100%;
+      max-width: 430px;
+      text-transform: uppercase;
+      align-items: center;
+      font-weight: 600;
+      justify-content: center;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      -webkit-user-select: none;
+      user-select: none;
+      border: 1px solid transparent;
+      border-radius: 10px;
+      padding: 0.75rem 1.25rem;
+      background-color: #666;
+      color: #fff;
+  }
+    
+    .btn-sign{
+        padding: 0 10% 0px 10%
+    }
+
+    .check-type-2{
+      background: #FFEBEB;
+      padding: 10px 10px;
+      display: flex;
+      .checkbox{
+        align-items: center;
+        position: relative;
+        .checkbox-label{
+          display: block;
+          position: relative;
+          padding-left: 25px;
+          cursor: pointer;
+          font-size: 22px;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+          user-select: none;
+          input {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+            height: 0;
+            width: 0;
+          }
+          input:checked ~ .checkmark:after {
+            display: block;
+          }
+          .checkmark {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 18px;
+            width: 18px;
+            border: 2px solid #DE3539;
+            background-color: #F7F7F7;
+          }
+          .checkmark:after {
+            content: "";
+            position: absolute;
+            display: none;
+            left: 50%;
+            top: 50%;
+            width: 9px;
+            height: 9px;
+            background: #DE3539;
+            transform: translate(-50%, -50%);
+          }
+
+        }
+        input{
+          background: #fff; 
+          top: 0;
+          right: 0;
+          left: 0;
+          width: 18px;
+          height: 18px;
+          @include responsive(sm){
+            height: 18px;
+            width: 18px;
+          }
+        }
+        input::before{
+          background-color: #DE3539; 
+          padding: 3px;
+        }
+        input::after{
+          background-color: #DE3539;
+          padding: 3px;
+        }
+
+      }
+      label{
+          display: flex;
+          align-items: center;
+          font-size: 13px !important;
+          color: #666;
+          margin-left: 0;
+          padding-left: 2px;
+          transition: 0.1s ease all;
+          text-transform: capitalize;
+          font-weight: 600;
+      }
+      label:hover{
+        color: #DE3539;
+      }
+    }
+    .sig-canvas-wrapper {
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 50px;
+      position: relative;
+      @include responsive(sm){
+        width: 90%;
+      }
+      .termssign {
+        border: 1px dashed #707070;   
+        background: #F7F7F7;
+        max-width: 100%;
+        height: 100px;
+        width: 360px;
+        @include responsive(sm){
+          width: 100%;
+        } 
+    }
+  }
+}
+

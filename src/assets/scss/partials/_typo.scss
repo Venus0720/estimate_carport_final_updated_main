@@ -1,0 +1,46 @@
+.product-wrapper-react {
+
+    h2,h3,h4,h5,h6 {
+        all: unset;
+        display: block;
+    }
+
+    
+h2 {font-size: 20px;font-family:$head_font; font-weight: 600; color: $color-dark}
+
+h3 {
+    font-size: 16px;
+    font-family: $sub_font; 
+    font-weight: 600;
+    color: $sub_color;
+    @include responsive(sm) {
+        font-size: 14px;
+    }
+    @include responsive(md) {
+        font-size: 14px;
+    }
+}
+
+p {font-size: 16px;font-weight: 500; @extend .font-1;color: #3F3F3F;
+span {
+    color: $theme-color;
+}
+}
+
+h2.heading1{
+    font-size: 30px;font-family: $head_font;font-weight: 700;
+    @include responsive(sm) {
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+
+h4 {
+    font-size: 15px;font-family: $sub_font;font-weight: 500;color: #000;
+    @include responsive(sm) {
+        font-size: 13px;
+    }
+}
+
+}
+

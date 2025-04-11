@@ -1,0 +1,79 @@
+.custom-popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 205;
+}
+  
+  .custom-popup-content {
+    background: #fff;
+    padding: 40px 50px;
+    border-radius: 8px;
+    position: relative;
+    @include responsive(sm) {
+      width: 330px;
+      padding: 36px 40px;
+    }
+  }
+  
+  .custom-close-button {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 20px;
+    font-size: 10px;
+    cursor: pointer;
+  }
+
+.custom-popup-content{
+  h2{
+    font-size: 20px; 
+    color:#000000;
+    line-height: 1.2;
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-align: left;
+  } 
+  p{
+    font-size: 16px; 
+    color:#000000;
+    line-height: 1.4;
+    font-weight: normal;
+    margin-bottom: 30px;
+    margin-top: 0;
+    width: 300px;
+    text-align: left;
+    @include responsive(sm) {
+      width: 100%;
+    }
+  }
+}
+
+.solid-btn{
+  border: none;
+  padding: 11px 25px;
+  font-size: 16px;      
+  font-family: $sub_font;
+  font-weight: 500;
+  background-color: #DE3539;
+  border-radius: 8px;
+  text-transform: capitalize;
+  color: #fff;
+}
+
+.link-btn{
+  border: none;
+  padding: 11px 20px;
+  font-size: 16px;   
+  font-family: $sub_font;
+  font-weight: 500;
+  background-color: transparent;
+  text-transform: capitalize;
+  color: #DE3539;
+}

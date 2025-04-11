@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 245.45" style="enable-background:new 0 0 300 245.45;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A38D82;}
+	.st1{fill:#7C6C62;}
+	.st2{opacity:0.55;}
+	.st3{opacity:0.5;clip-path:url(#SVGID_2_);}
+	.st4{opacity:0.8;clip-path:url(#SVGID_4_);}
+	.st5{opacity:0.32;fill:#D8AB6B;enable-background:new    ;}
+	.st6{fill:#B96A30;fill-opacity:0;}
+	.st7{fill:#7C4330;}
+	.st8{fill:#7B3E33;}
+	.st9{fill:#783B2E;}
+	.st10{fill:#763B26;}
+	.st11{fill:#7C7C7C;}
+	.st12{fill:#9B9B9B;}
+	.st13{fill:url(#Rectangle_24833_2_);}
+	.st14{fill:url(#Rectangle_24834_2_);}
+	.st15{fill:url(#Rectangle_24835_2_);}
+	.st16{opacity:0.5;fill:url(#Rectangle_24836_2_);enable-background:new    ;}
+	.st17{opacity:0.5;fill:url(#Rectangle_24837_2_);enable-background:new    ;}
+	.st18{opacity:0.6;fill:url(#Path_10247_2_);enable-background:new    ;}
+</style>
+<g id="Group_6403" transform="translate(-565 -1671)">
+	
+		<linearGradient id="Rectangle_24833_2_" gradientUnits="userSpaceOnUse" x1="-1153.8333" y1="2511.4934" x2="-1157.9036" y2="2511.0134" gradientTransform="matrix(99 0 0 -188 115128.8203 473890.8125)">
+		<stop  offset="0" style="stop-color:#C6C5C3"/>
+		<stop  offset="0.54" style="stop-color:#F0F0EE"/>
+		<stop  offset="1" style="stop-color:#ACACAB"/>
+	</linearGradient>
+	<rect id="Rectangle_24833_1_" x="565" y="1671" class="st13" width="100" height="245.45"/>
+	
+		<linearGradient id="Rectangle_24834_2_" gradientUnits="userSpaceOnUse" x1="-1155.0564" y1="2512.1665" x2="-1158.3173" y2="2510.1533" gradientTransform="matrix(99 0 0 -188 115227.8203 473890.8125)">
+		<stop  offset="0" style="stop-color:#C6C5C3"/>
+		<stop  offset="0.142" style="stop-color:#D1D1CF"/>
+		<stop  offset="0.327" style="stop-color:#E8E7E5"/>
+		<stop  offset="0.429" style="stop-color:#F0F0EE"/>
+		<stop  offset="0.55" style="stop-color:#E9E9E7"/>
+		<stop  offset="0.734" style="stop-color:#C9C9C8"/>
+		<stop  offset="1" style="stop-color:#ACACAB"/>
+	</linearGradient>
+	<rect id="Rectangle_24834_1_" x="665" y="1671" class="st14" width="100" height="245.45"/>
+	
+		<linearGradient id="Rectangle_24835_2_" gradientUnits="userSpaceOnUse" x1="-1157.333" y1="2511.7673" x2="-1154.5873" y2="2509.1714" gradientTransform="matrix(99 0 0 -188 115326.8203 473890.8125)">
+		<stop  offset="0" style="stop-color:#C6C5C3"/>
+		<stop  offset="0.421" style="stop-color:#F0F0EE"/>
+		<stop  offset="1" style="stop-color:#ACACAB"/>
+	</linearGradient>
+	<rect id="Rectangle_24835_1_" x="765" y="1671" class="st15" width="100" height="245.45"/>
+	
+		<linearGradient id="Rectangle_24836_2_" gradientUnits="userSpaceOnUse" x1="-891.8257" y1="2511.6025" x2="-891.8257" y2="2510.502" gradientTransform="matrix(2 0 0 -188 2449.6614 473890.8125)">
+		<stop  offset="0" style="stop-color:#ABABAB"/>
+		<stop  offset="1" style="stop-color:#575757"/>
+	</linearGradient>
+	<rect id="Rectangle_24836_1_" x="665" y="1671" class="st16" width="2.02" height="245.45"/>
+	
+		<linearGradient id="Rectangle_24837_2_" gradientUnits="userSpaceOnUse" x1="-891.3307" y1="2511.6025" x2="-891.3307" y2="2510.502" gradientTransform="matrix(2 0 0 -188 2547.6614 473890.8125)">
+		<stop  offset="0" style="stop-color:#ABABAB"/>
+		<stop  offset="1" style="stop-color:#575757"/>
+	</linearGradient>
+	<rect id="Rectangle_24837_1_" x="763.99" y="1671" class="st17" width="2.02" height="245.45"/>
+	
+		<linearGradient id="Path_10247_2_" gradientUnits="userSpaceOnUse" x1="-1159.7402" y1="2510.9199" x2="-1160.7653" y2="2510.9199" gradientTransform="matrix(284.637 0 0 -178 330966.8125 448737.4688)">
+		<stop  offset="0" style="stop-color:#B4B4B5"/>
+		<stop  offset="0.036" style="stop-color:#DBDBDA"/>
+		<stop  offset="0.079" style="stop-color:#E3E2E2"/>
+		<stop  offset="0.954" style="stop-color:#E5E5E4"/>
+		<stop  offset="0.981" style="stop-color:#D9D9D8"/>
+		<stop  offset="1" style="stop-color:#CBCACA"/>
+	</linearGradient>
+	<path id="Path_10247_1_" class="st18" d="M570.05,1676.06h288.6v235.33h-288.6V1676.06z"/>
+</g>
+</svg>
